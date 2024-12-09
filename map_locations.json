@@ -1,0 +1,3309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56467649999999,
+                    41.75243409999999
+                ]
+            },
+            "properties": {
+                "id": "7841-s-phillips-ave",
+                "description": "<strong>7841 S Phillips Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.158018,
+                    39.76909
+                ]
+            },
+            "properties": {
+                "id": "3250-w-crystal",
+                "description": "<strong>3250 W Crystal</strong><br>Indianapolis, IN nan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66276859999999,
+                    41.8908222
+                ]
+            },
+            "properties": {
+                "id": "1411-2117-w-grand",
+                "description": "<strong>1411 & 2117 W Grand</strong><br>Joliet, IL 60642.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.661479,
+                    41.882514
+                ]
+            },
+            "properties": {
+                "id": "1347-w-washington",
+                "description": "<strong>1347 W Washington</strong><br>Chicago, IL 60607.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6215931,
+                    41.8046855
+                ]
+            },
+            "properties": {
+                "id": "4930-indiana",
+                "description": "<strong>4930 Indiana</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.601219,
+                    41.7696023
+                ]
+            },
+            "properties": {
+                "id": "102-memorial-dr",
+                "description": "<strong>102 Memorial Dr</strong><br>Chicago, IL 60619.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6856569,
+                    41.771648
+                ]
+            },
+            "properties": {
+                "id": "2453-w-marquette",
+                "description": "<strong>2453 W Marquette</strong><br>Chicago, IL 60629.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6638771,
+                    41.7310952
+                ]
+            },
+            "properties": {
+                "id": "8935-s-marshfield-c0c80",
+                "description": "<strong>8935 S Marshfield</strong><br>Chicago, IL 60620.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5622029,
+                    41.7436521
+                ]
+            },
+            "properties": {
+                "id": "8327-s-kingston-cab5b",
+                "description": "<strong>8327 S Kingston</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.55429319999999,
+                    41.7473872
+                ]
+            },
+            "properties": {
+                "id": "8128-escanaba",
+                "description": "<strong>8128 Escanaba</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74425959999999,
+                    41.7578141
+                ]
+            },
+            "properties": {
+                "id": "7233-s-stony",
+                "description": "<strong>7233 S Stony</strong><br>Chicago, IL 60629.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5660644,
+                    41.7640786
+                ]
+            },
+            "properties": {
+                "id": "7201-s-yates-blvd",
+                "description": "<strong>7201 S Yates Blvd</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8265022,
+                    41.9767901
+                ]
+            },
+            "properties": {
+                "id": "5345-washington",
+                "description": "<strong>5345 Washington</strong><br>Chicago, IL 60656.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6594511,
+                    41.77318400000001
+                ]
+            },
+            "properties": {
+                "id": "6628-loomis",
+                "description": "<strong>6628 Loomis</strong><br>Chicago, IL 60636.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61727719999999,
+                    41.8001608
+                ]
+            },
+            "properties": {
+                "id": "5201-5711-s-calumet",
+                "description": "<strong>5201 & 5711 S Calumet</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5611694,
+                    41.7614774
+                ]
+            },
+            "properties": {
+                "id": "2620-e-74th",
+                "description": "<strong>2620 E 74th</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66345319999999,
+                    41.9947464
+                ]
+            },
+            "properties": {
+                "id": "1310-w-granville-ave",
+                "description": "<strong>1310 W Granville Ave</strong><br>Chicago, IL 60660.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6297982,
+                    41.8781136
+                ]
+            },
+            "properties": {
+                "id": "cnk-real-estate-llc",
+                "description": "<strong>CNK Real Estate LLC</strong><br>Chicago, IL nan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6649362,
+                    41.99823019999999
+                ]
+            },
+            "properties": {
+                "id": "1344-w-devon",
+                "description": "<strong>1344 W Devon</strong><br>Chicago, IL 60660.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5343504,
+                    41.7180133
+                ]
+            },
+            "properties": {
+                "id": "9752-s-ave-j",
+                "description": "<strong>9752 S Ave J</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61178199999999,
+                    41.7808244
+                ]
+            },
+            "properties": {
+                "id": "6243-s-rhodes-5e2a6",
+                "description": "<strong>6243 S Rhodes</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5531039,
+                    41.7369118
+                ]
+            },
+            "properties": {
+                "id": "8712-s-exchange-ave",
+                "description": "<strong>8712 S Exchange Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5666689,
+                    41.7603374
+                ]
+            },
+            "properties": {
+                "id": "7412-s-yates-blvd",
+                "description": "<strong>7412 S Yates Blvd</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.55709519999999,
+                    41.7444583
+                ]
+            },
+            "properties": {
+                "id": "8301-s-manistee-ave",
+                "description": "<strong>8301 S Manistee Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5463382,
+                    41.7409877
+                ]
+            },
+            "properties": {
+                "id": "8501-s-brandon-ave",
+                "description": "<strong>8501 S Brandon Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56176169999999,
+                    41.7629458
+                ]
+            },
+            "properties": {
+                "id": "7312-s-coles-ave",
+                "description": "<strong>7312 S Coles Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5580246,
+                    41.7589243
+                ]
+            },
+            "properties": {
+                "id": "7534-s-coles-ave",
+                "description": "<strong>7534 S Coles Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5622159,
+                    41.7438555
+                ]
+            },
+            "properties": {
+                "id": "8306-8315-8321-s-kingston-ave",
+                "description": "<strong>8306, 8315, 8321 S Kingston Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5647132,
+                    41.751256
+                ]
+            },
+            "properties": {
+                "id": "7915-s-phillips-ave",
+                "description": "<strong>7915 S Phillips Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5725805,
+                    41.749556
+                ]
+            },
+            "properties": {
+                "id": "8006-s-merrill-ave",
+                "description": "<strong>8006 S Merrill Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5713169,
+                    41.7715334
+                ]
+            },
+            "properties": {
+                "id": "6801-s-paxton-ave",
+                "description": "<strong>6801 S Paxton Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56343199999999,
+                    41.7506505
+                ]
+            },
+            "properties": {
+                "id": "7854-7859-7840-7907-7933-2935-7937-s-essex-ave",
+                "description": "<strong>7854, 7859, 7840, 7907, 7933, 2935, 7937 S Essex Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5830048,
+                    41.7522189
+                ]
+            },
+            "properties": {
+                "id": "7723-7839-7837-s-east-end-ave",
+                "description": "<strong>7723, 7839, 7837 S East End Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5493912,
+                    41.727139
+                ]
+            },
+            "properties": {
+                "id": "9237-s-houston-ave",
+                "description": "<strong>9237 S Houston Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56229139999999,
+                    41.7486953
+                ]
+            },
+            "properties": {
+                "id": "8041-s-kingston-ave",
+                "description": "<strong>8041 S Kingston Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.653024,
+                    41.7036266
+                ]
+            },
+            "properties": {
+                "id": "10530-s-avenue-l",
+                "description": "<strong>10530 S Avenue L</strong><br>Chicago, IL 60643.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5579877,
+                    41.7614143
+                ]
+            },
+            "properties": {
+                "id": "7433-7445-s-south-shore-dr",
+                "description": "<strong>7433 & 7445  S South Shore Dr</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5853504,
+                    41.7726582
+                ]
+            },
+            "properties": {
+                "id": "6722-s-cornell-ave",
+                "description": "<strong>6722 S Cornell Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5779234,
+                    41.7398864
+                ]
+            },
+            "properties": {
+                "id": "8525-s-bennett-ave",
+                "description": "<strong>8525 S Bennett Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56338869999999,
+                    41.7478321
+                ]
+            },
+            "properties": {
+                "id": "8109-8110-s-essex-ave",
+                "description": "<strong>8109 & 8110 S Essex Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65805519999999,
+                    41.6951183
+                ]
+            },
+            "properties": {
+                "id": "1420-w-109th-pl",
+                "description": "<strong>1420 W 109th Pl</strong><br>Chicago, IL 60643.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.568986,
+                    41.749466
+                ]
+            },
+            "properties": {
+                "id": "8014-8022-s-crandon-ave",
+                "description": "<strong>8014 & 8022 S Crandon Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5634546,
+                    41.7508344
+                ]
+            },
+            "properties": {
+                "id": "7931-s-essex-ave",
+                "description": "<strong>7931 S Essex Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5644973,
+                    41.7611318
+                ]
+            },
+            "properties": {
+                "id": "7355-s-phillips-ave",
+                "description": "<strong>7355 S Phillips Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6675721,
+                    41.8797469
+                ]
+            },
+            "properties": {
+                "id": "1645-w-ogden-ave-unit-620",
+                "description": "<strong>1645 W Ogden Ave Unit 620</strong><br>Chicago, IL 60612.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5596687,
+                    41.7609788
+                ]
+            },
+            "properties": {
+                "id": "7424-s-coles-ave",
+                "description": "<strong>7424 S Coles Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9775163,
+                    32.85326990000001
+                ]
+            },
+            "properties": {
+                "id": "3602-country-club-rd-north",
+                "description": "<strong>3602 Country Club Rd North</strong><br>Irving, TX 75062.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5880351,
+                    41.7735705
+                ]
+            },
+            "properties": {
+                "id": "1514-e-67th-st",
+                "description": "<strong>1514 E 67th St</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58842349999999,
+                    41.7698522
+                ]
+            },
+            "properties": {
+                "id": "1464-e-69th-st",
+                "description": "<strong>1464 E 69th St</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5944719,
+                    41.7822112
+                ]
+            },
+            "properties": {
+                "id": "6201-s-kimbark-ave",
+                "description": "<strong>6201 S Kimbark Ave</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56108549999999,
+                    41.7582286
+                ]
+            },
+            "properties": {
+                "id": "7527-s-colfax-ave",
+                "description": "<strong>7527 S Colfax Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5719599,
+                    41.7481746
+                ]
+            },
+            "properties": {
+                "id": "8055-s-merrill-ave",
+                "description": "<strong>8055 S Merrill Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6135386,
+                    41.7838031
+                ]
+            },
+            "properties": {
+                "id": "6100-s-eberhart",
+                "description": "<strong>6100 S Eberhart</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2957231,
+                    38.6365913
+                ]
+            },
+            "properties": {
+                "id": "14289-potomac-mills-rd",
+                "description": "<strong>14289 Potomac Mills Rd</strong><br>Woodbridge, VA 22192.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6649362,
+                    41.99823019999999
+                ]
+            },
+            "properties": {
+                "id": "1344-w-devon-ave",
+                "description": "<strong>1344 W Devon Ave</strong><br>Chicago, IL 60660.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5852266,
+                    41.7698756
+                ]
+            },
+            "properties": {
+                "id": "6854-s-cornell-ave",
+                "description": "<strong>6854 S Cornell Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61945349999999,
+                    41.795604
+                ]
+            },
+            "properties": {
+                "id": "5432-s-prairie-ave",
+                "description": "<strong>5432 S Prairie Ave</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62356199999999,
+                    41.8170608
+                ]
+            },
+            "properties": {
+                "id": "4850-4220-4230-4240-s-michigan-ave",
+                "description": "<strong>4850, 4220, 4230, 4240 S Michigan Ave</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58395949999999,
+                    41.7656607
+                ]
+            },
+            "properties": {
+                "id": "7110-s-east-end-ave",
+                "description": "<strong>7110 S East End Ave</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6039146,
+                    41.8020932
+                ]
+            },
+            "properties": {
+                "id": "5019-s-drexel-ave",
+                "description": "<strong>5019 S Drexel Ave</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6203128,
+                    41.8313776
+                ]
+            },
+            "properties": {
+                "id": "3453-55-s-prairie-ave",
+                "description": "<strong>3453-55 S Prairie Ave</strong><br>Chicago, IL 60616.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5488391,
+                    41.7289459
+                ]
+            },
+            "properties": {
+                "id": "9138-s-baltimore-ave",
+                "description": "<strong>9138 S Baltimore Ave</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6228408,
+                    41.8177466
+                ]
+            },
+            "properties": {
+                "id": "4213-23-s-michigan-ave",
+                "description": "<strong>4213-23 S Michigan Ave</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61048679999999,
+                    41.7791885
+                ]
+            },
+            "properties": {
+                "id": "6339-s-saint-lawrence",
+                "description": "<strong>6339 S Saint Lawrence</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65289419999999,
+                    41.7167195
+                ]
+            },
+            "properties": {
+                "id": "9752-s-avenue-j",
+                "description": "<strong>9752 S Avenue J</strong><br>Chicago, IL 60643.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5660644,
+                    41.7640786
+                ]
+            },
+            "properties": {
+                "id": "7201-7219-s-yates",
+                "description": "<strong>7201-7219 S Yates</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61845079999999,
+                    41.8102661
+                ]
+            },
+            "properties": {
+                "id": "4626-s-calumet-units-101-107",
+                "description": "<strong>4626 S Calumet Units 101-107</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6226181,
+                    41.8244328
+                ]
+            },
+            "properties": {
+                "id": "3839-s-michigan",
+                "description": "<strong>3839 S Michigan</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6209899,
+                    41.8190077
+                ]
+            },
+            "properties": {
+                "id": "4139-s-indiana",
+                "description": "<strong>4139 S Indiana</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61048459999999,
+                    41.7790448
+                ]
+            },
+            "properties": {
+                "id": "6343-s-saint-lawrence",
+                "description": "<strong>6343 S Saint Lawrence</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61178199999999,
+                    41.7808244
+                ]
+            },
+            "properties": {
+                "id": "6243-s-rhodes",
+                "description": "<strong>6243 S Rhodes</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.55429319999999,
+                    41.7473872
+                ]
+            },
+            "properties": {
+                "id": "8128-s-escanaba",
+                "description": "<strong>8128 S Escanaba</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6117708,
+                    41.7809846
+                ]
+            },
+            "properties": {
+                "id": "6237-s-rhodes",
+                "description": "<strong>6237 S Rhodes</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.608892,
+                    41.8183871
+                ]
+            },
+            "properties": {
+                "id": "4203-langley",
+                "description": "<strong>4203 Langley</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6187229,
+                    41.8214149
+                ]
+            },
+            "properties": {
+                "id": "4018-s-calumet",
+                "description": "<strong>4018 S Calumet</strong><br>Chicago, IL 60653.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5622029,
+                    41.7436521
+                ]
+            },
+            "properties": {
+                "id": "8327-s-kingston",
+                "description": "<strong>8327 S Kingston</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5855071,
+                    41.7632285
+                ]
+            },
+            "properties": {
+                "id": "7233-s-stony-island",
+                "description": "<strong>7233 S Stony Island</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5530359,
+                    41.7452212
+                ]
+            },
+            "properties": {
+                "id": "8240-s-exchange",
+                "description": "<strong>8240 S Exchange</strong><br>Chicago, IL 60617.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61727719999999,
+                    41.8001608
+                ]
+            },
+            "properties": {
+                "id": "5201-s-calumet-units-2c-3af-gc-3n-3s-gn-2n",
+                "description": "<strong>5201 S Calumet Units 2C, 3AF, GC, 3N, 3S, GN, 2N</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61778679999999,
+                    41.8073906
+                ]
+            },
+            "properties": {
+                "id": "4801-s-calumet-ave-units-2b-3a-2d-gb-2c-1d-1a-3b-2n-1n",
+                "description": "<strong>4801 S Calumet Ave Units 2B, 3A, 2D, GB, 2C, 1D, 1A, 3B, 2N, 1N</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6104708,
+                    41.7791088
+                ]
+            },
+            "properties": {
+                "id": "6341-s-saint-lawrence",
+                "description": "<strong>6341 S Saint Lawrence</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.55030819999999,
+                    41.7546233
+                ]
+            },
+            "properties": {
+                "id": "7819-s-shore-dr",
+                "description": "<strong>7819 S Shore Dr</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.60206210000001,
+                    41.8091369
+                ]
+            },
+            "properties": {
+                "id": "4710-s-ellis-unit-45-unit-1n",
+                "description": "<strong>4710 S Ellis Unit 45 & Unit 1N</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70880849999999,
+                    41.9039992
+                ]
+            },
+            "properties": {
+                "id": "3250-w-crystal-ave-unit-g-unit-4",
+                "description": "<strong>3250 W Crystal Ave Unit G & Unit 4</strong><br>Chicago, IL 60651.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6116472,
+                    41.77627349999999
+                ]
+            },
+            "properties": {
+                "id": "6511-rhodes",
+                "description": "<strong>6511 Rhodes</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.59263759999999,
+                    41.781567
+                ]
+            },
+            "properties": {
+                "id": "6225-s-kenwood-ave-unit-1n-unit-35",
+                "description": "<strong>6225 S Kenwood Ave Unit 1N & Unit 35</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5848319,
+                    41.7543803
+                ]
+            },
+            "properties": {
+                "id": "7722-s-cornell-unit-1w",
+                "description": "<strong>7722 S Cornell Unit 1W</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5981556,
+                    41.7752515
+                ]
+            },
+            "properties": {
+                "id": "6553-s-university-ave-unit-102",
+                "description": "<strong>6553 S University Ave Unit 102</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5981693,
+                    41.7752758
+                ]
+            },
+            "properties": {
+                "id": "6551-s-university-unit-102",
+                "description": "<strong>6551 S University Unit 102</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6594511,
+                    41.77318400000001
+                ]
+            },
+            "properties": {
+                "id": "6628-s-loomis",
+                "description": "<strong>6628 S Loomis</strong><br>Chicago, IL 60636.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6638771,
+                    41.7310952
+                ]
+            },
+            "properties": {
+                "id": "8935-s-marshfield",
+                "description": "<strong>8935 S Marshfield</strong><br>Chicago, IL 60620.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65996969999999,
+                    41.89640139999999
+                ]
+            },
+            "properties": {
+                "id": "800-elizabeth-st",
+                "description": "<strong>800 Elizabeth St</strong><br>Chicago, IL 60642.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6590442,
+                    41.9323591
+                ]
+            },
+            "properties": {
+                "id": "1201-w-diversey-unit-3e",
+                "description": "<strong>1201 W Diversey Unit 3E</strong><br>Chicago, IL 60614.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6198744,
+                    41.8032167
+                ]
+            },
+            "properties": {
+                "id": "5020-s-prairie-unit-3",
+                "description": "<strong>5020 S Prairie Unit 3</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58845699999999,
+                    41.7699362
+                ]
+            },
+            "properties": {
+                "id": "1468-e-69th-st-unit-3",
+                "description": "<strong>1468 E 69th St Unit 3</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70967979999999,
+                    41.9117283
+                ]
+            },
+            "properties": {
+                "id": "3263-w-wabansia-ave-unit-3w",
+                "description": "<strong>3263 W Wabansia Ave Unit 3W</strong><br>Chicago, IL 60647.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5642421,
+                    41.7562962
+                ]
+            },
+            "properties": {
+                "id": "7628-s-essex-ave-unit-1n-unit-2n",
+                "description": "<strong>7628 S Essex Ave Unit 1N & Unit 2N</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58845699999999,
+                    41.7699362
+                ]
+            },
+            "properties": {
+                "id": "1464-e-69th-st-apt-2n",
+                "description": "<strong>1464 E 69th St Apt 2N</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.560375,
+                    41.7612994
+                ]
+            },
+            "properties": {
+                "id": "7400-s-coles-ave-unit-1",
+                "description": "<strong>7400 S Coles Ave Unit 1</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.560375,
+                    41.7612994
+                ]
+            },
+            "properties": {
+                "id": "7402-s-coles-ave-unit-1",
+                "description": "<strong>7402 S Coles Ave Unit 1</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5933567,
+                    41.7746414
+                ]
+            },
+            "properties": {
+                "id": "6612-s-kenwood-ave-unit-109",
+                "description": "<strong>6612 S Kenwood Ave Unit 109</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5932551,
+                    41.774451
+                ]
+            },
+            "properties": {
+                "id": "6618-s-kenwood-ave-unit-301",
+                "description": "<strong>6618 S Kenwood Ave Unit 301</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5988204,
+                    41.7758685
+                ]
+            },
+            "properties": {
+                "id": "6528-s-university-ave-unit-1n",
+                "description": "<strong>6528 S University Ave Unit 1N</strong><br>Chicago, IL 60637.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5711652,
+                    41.7701061
+                ]
+            },
+            "properties": {
+                "id": "6853-s-paxton-ave-unit-2",
+                "description": "<strong>6853 S Paxton Ave Unit 2</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2800414,
+                    34.0532981
+                ]
+            },
+            "properties": {
+                "id": "916-s-lake-st",
+                "description": "<strong>916 S. Lake St</strong><br>Los Angeles, CA 90006.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3007489,
+                    34.0723385
+                ]
+            },
+            "properties": {
+                "id": "147-s-normandie-ave",
+                "description": "<strong>147 S. Normandie Ave</strong><br>Los Angeles, CA 90004.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.307791,
+                    34.0530975
+                ]
+            },
+            "properties": {
+                "id": "985-s-oxford-ave",
+                "description": "<strong>985 S. Oxford Ave</strong><br>Los Angeles, CA 90006.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3077891,
+                    34.0532571
+                ]
+            },
+            "properties": {
+                "id": "979-s-oxford-ave",
+                "description": "<strong>979 S. Oxford Ave</strong><br>Los Angeles, CA 90006.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3077912,
+                    34.0534159
+                ]
+            },
+            "properties": {
+                "id": "975-s-oxford-ave",
+                "description": "<strong>975 S. Oxford Ave</strong><br>Los Angeles, CA 90006.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2984025,
+                    34.0582317
+                ]
+            },
+            "properties": {
+                "id": "750-752-s-mariposa-ave",
+                "description": "<strong>750-752 S. Mariposa Ave</strong><br>Los Angeles, CA 90005.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3042542,
+                    34.0804546
+                ]
+            },
+            "properties": {
+                "id": "516-n-harvard-blvd",
+                "description": "<strong>516 N. Harvard Blvd</strong><br>Los Angeles, CA 90004.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.286714,
+                    34.0579936
+                ]
+            },
+            "properties": {
+                "id": "2795-w-8th-st",
+                "description": "<strong>2795 W. 8th St</strong><br>Los Angeles, CA 90005.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2950518,
+                    34.0702975
+                ]
+            },
+            "properties": {
+                "id": "220-s-catalina-st",
+                "description": "<strong>220 S. Catalina St</strong><br>Los Angeles, CA 90004.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.274766,
+                    34.0457738
+                ]
+            },
+            "properties": {
+                "id": "1513-w-12th-st",
+                "description": "<strong>1513 W. 12th St</strong><br>Los Angeles, CA 90015.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2721905,
+                    34.0476117
+                ]
+            },
+            "properties": {
+                "id": "1422-1426-w-10th-pl",
+                "description": "<strong>1422-1426 W. 10th Pl.</strong><br>Los Angeles, CA 90015.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2933737,
+                    34.0741106
+                ]
+            },
+            "properties": {
+                "id": "147-n-new-hampshire-ave",
+                "description": "<strong>147 N. New Hampshire Ave</strong><br>Los Angeles, CA 90004.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2720764,
+                    34.0475402
+                ]
+            },
+            "properties": {
+                "id": "1416-w-10th-pl",
+                "description": "<strong>1416 W. 10th Pl.</strong><br>Los Angeles, CA 90015.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2875609,
+                    34.0724151
+                ]
+            },
+            "properties": {
+                "id": "132-s-westmoreland-ave",
+                "description": "<strong>132 S. Westmoreland Ave</strong><br>Los Angeles, CA 90004.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2676839,
+                    34.0535787
+                ]
+            },
+            "properties": {
+                "id": "1319-ingraham-st",
+                "description": "<strong>1319 Ingraham St</strong><br>Los Angeles, CA 90017.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3093397,
+                    34.0510108
+                ]
+            },
+            "properties": {
+                "id": "1057-s-western-ave",
+                "description": "<strong>1057 S. Western Ave</strong><br>Los Angeles, CA 90006.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9157334,
+                    40.8344654
+                ]
+            },
+            "properties": {
+                "id": "1225-sherman-ave",
+                "description": "<strong>1225 Sherman Ave</strong><br>New York, NY 10456.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86551759999999,
+                    40.8702076
+                ]
+            },
+            "properties": {
+                "id": "3021-holland-ave",
+                "description": "<strong>3021 Holland Ave</strong><br>New York, NY 10467.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85908959999999,
+                    40.9170632
+                ]
+            },
+            "properties": {
+                "id": "955-yonkers-ave",
+                "description": "<strong>955 Yonkers Ave</strong><br>New York, NY 10704.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96794299999999,
+                    40.799482
+                ]
+            },
+            "properties": {
+                "id": "2710-2714-broadway",
+                "description": "<strong>2710-2714 Broadway</strong><br>New York, NY 10025.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9283135,
+                    40.8616064
+                ]
+            },
+            "properties": {
+                "id": "30-sickles-st",
+                "description": "<strong>30 Sickles St</strong><br>New York, NY 10040.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9019776,
+                    40.8659526
+                ]
+            },
+            "properties": {
+                "id": "2541-aqueduct-ave",
+                "description": "<strong>2541 Aqueduct Ave</strong><br>New York, NY 10468.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.932852,
+                    40.845987
+                ]
+            },
+            "properties": {
+                "id": "2372-2376-amsterdam-ave",
+                "description": "<strong>2372-2376 Amsterdam Ave</strong><br>New York, NY 10033.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.899377,
+                    40.8772198
+                ]
+            },
+            "properties": {
+                "id": "3115-sedgwick-ave",
+                "description": "<strong>3115 Sedgwick Ave</strong><br>New York, NY 10463.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9230295,
+                    40.8624433
+                ]
+            },
+            "properties": {
+                "id": "210-220-nagle-ave",
+                "description": "<strong>210-220 Nagle Ave</strong><br>New York, NY 10034.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9525994,
+                    40.7989423
+                ]
+            },
+            "properties": {
+                "id": "1401-7-st-nicholas-ave",
+                "description": "<strong>1401-7 St Nicholas Ave</strong><br>New York, NY 10026.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9526025,
+                    40.8023757
+                ]
+            },
+            "properties": {
+                "id": "1390-98-st-nicholas-ave",
+                "description": "<strong>1390-98 St Nicholas Ave</strong><br>New York, NY 10026.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9523222,
+                    40.8017855
+                ]
+            },
+            "properties": {
+                "id": "1380-88-st-nicholas-ave",
+                "description": "<strong>1380-88 St Nicholas Ave</strong><br>New York, NY 10026.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91654249999999,
+                    40.835085
+                ]
+            },
+            "properties": {
+                "id": "1236-grand-concourse",
+                "description": "<strong>1236 Grand Concourse</strong><br>New York, NY 10456.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.734994,
+                    41.654866
+                ]
+            },
+            "properties": {
+                "id": "227-pane-rd",
+                "description": "<strong>227 Pane Rd</strong><br>Newington, CT 6111.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4340776,
+                    34.3066392
+                ]
+            },
+            "properties": {
+                "id": "12960-dronfield-ave",
+                "description": "<strong>12960 Dronfield Ave</strong><br>Sylmar, CA 91342.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1490021,
+                    32.7078454
+                ]
+            },
+            "properties": {
+                "id": "229-16th-st",
+                "description": "<strong>229 16th St</strong><br>San Diego, CA 92101.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.133577,
+                    36.1200172
+                ]
+            },
+            "properties": {
+                "id": "1455-e-katie-ave",
+                "description": "<strong>1455 E Katie Ave</strong><br>Las Vegas, NV 89119.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4737912,
+                    27.7280193
+                ]
+            },
+            "properties": {
+                "id": "536-bahia-beach-blvd",
+                "description": "<strong>536 Bahia Beach Blvd</strong><br>Ruskin, FL 33570.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.440663,
+                    40.8436076
+                ]
+            },
+            "properties": {
+                "id": "4252-belden-greens-circle-nw",
+                "description": "<strong>4252 Belden Greens Circle NW</strong><br>Canton, OH 44718.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6290038,
+                    38.4921799
+                ]
+            },
+            "properties": {
+                "id": "400-legends-terrace-dr",
+                "description": "<strong>400 Legends Terrace Dr</strong><br>Eureka, MO 63025.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7230502,
+                    38.4403317
+                ]
+            },
+            "properties": {
+                "id": "701-wilson-st",
+                "description": "<strong>701 Wilson St</strong><br>Santa Rosa, CA 95401.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1655748,
+                    33.8545158
+                ]
+            },
+            "properties": {
+                "id": "2301-e-market-st",
+                "description": "<strong>2301 E Market St</strong><br>Long Beach, CA 90805.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1637217,
+                    33.8587471
+                ]
+            },
+            "properties": {
+                "id": "5565-5700-ackerfield-ave",
+                "description": "<strong>5565-5700 Ackerfield Ave</strong><br>Long Beach, CA 90805.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3118779,
+                    34.0563883
+                ]
+            },
+            "properties": {
+                "id": "856-gramercy-dr",
+                "description": "<strong>856 Gramercy Dr</strong><br>Los Angeles, CA 90005.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.573021,
+                    41.773353
+                ]
+            },
+            "properties": {
+                "id": "6700-south-merrill-st",
+                "description": "<strong>6700 South Merrill St</strong><br>Chicago, IL 60649.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1430268,
+                    34.7030386
+                ]
+            },
+            "properties": {
+                "id": "700-west-ave-i",
+                "description": "<strong>700 West Ave I</strong><br>Lancaster, CA 93534.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4831992,
+                    34.1929444
+                ]
+            },
+            "properties": {
+                "id": "6736-woodley-ave",
+                "description": "<strong>6736 Woodley Ave</strong><br>Van Nuys, CA 91406.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5331064,
+                    41.4648465
+                ]
+            },
+            "properties": {
+                "id": "20825-chagrin-blvd",
+                "description": "<strong>20825 Chagrin Blvd</strong><br>Shaker Heights, OH 44122.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.53548119999999,
+                    41.468179
+                ]
+            },
+            "properties": {
+                "id": "3310-3311-3363-warrensville-center-rd",
+                "description": "<strong>3310, 3311, 3363 Warrensville Center Rd</strong><br>Shaker Heights, OH 44122.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3297052,
+                    33.976331
+                ]
+            },
+            "properties": {
+                "id": "6812-11th-ave-6821-11th-ave-2301-2311-florence",
+                "description": "<strong>6812 11th Ave; 6821 11th Ave; 2301-2311 Florence</strong><br>Los Angeles, CA 90043.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1198798,
+                    33.55184759999999
+                ]
+            },
+            "properties": {
+                "id": "2820-2844-w-augusta-ave",
+                "description": "<strong>2820-2844 W. Augusta Ave</strong><br>Phoenix, AZ 85051.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.063299,
+                    32.6467469
+                ]
+            },
+            "properties": {
+                "id": "245-bonita-glen-dr",
+                "description": "<strong>245 Bonita Glen Dr</strong><br>Chula Vista, CA 91910.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1203807,
+                    33.5526248
+                ]
+            },
+            "properties": {
+                "id": "2835-west-northern-ave",
+                "description": "<strong>2835 West Northern Ave</strong><br>Phoenix, AZ 85051.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3569863,
+                    27.9071849
+                ]
+            },
+            "properties": {
+                "id": "4530-leeward-ridge-dr",
+                "description": "<strong>4530 Leeward Ridge Dr</strong><br>Tampa, FL 33619.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08001759999999,
+                    40.6426783
+                ]
+            },
+            "properties": {
+                "id": "100-belmont-place",
+                "description": "<strong>100 Belmont Place</strong><br>Staten Island, NY 10301.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5261572,
+                    33.5842821
+                ]
+            },
+            "properties": {
+                "id": "4300-flat-shoals-rd",
+                "description": "<strong>4300 Flat Shoals Rd</strong><br>Union City, GA 30291.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5580499,
+                    40.755697
+                ]
+            },
+            "properties": {
+                "id": "1025-old-country-rd",
+                "description": "<strong>1025 Old Country Rd</strong><br>Westbury, NY 11590.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3371597,
+                    27.7856554
+                ]
+            },
+            "properties": {
+                "id": "6617-simmons-loop",
+                "description": "<strong>6617 Simmons Loop</strong><br>Riverview, FL 33578.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4592686,
+                    34.2218124
+                ]
+            },
+            "properties": {
+                "id": "14949-roscoe-blvd",
+                "description": "<strong>14949 Roscoe Blvd</strong><br>Panorama City, CA 91402.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0666717,
+                    42.349647
+                ]
+            },
+            "properties": {
+                "id": "640-west-willis-st",
+                "description": "<strong>640 West Willis St</strong><br>Detroit, MI 48201.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.84411709999999,
+                    26.5993789
+                ]
+            },
+            "properties": {
+                "id": "4301-executive-circle",
+                "description": "<strong>4301 Executive Circle</strong><br>Fort Myers, FL 33916.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5627318,
+                    33.5698023
+                ]
+            },
+            "properties": {
+                "id": "5300-ga-138",
+                "description": "<strong>5300 GA-138</strong><br>Union City, GA 30291.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1411786,
+                    39.9732552
+                ]
+            },
+            "properties": {
+                "id": "1427-germantown-ave",
+                "description": "<strong>1427 Germantown Ave</strong><br>Philadelphia, PA 19122.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9527608,
+                    40.7746401
+                ]
+            },
+            "properties": {
+                "id": "320-e-82nd-st",
+                "description": "<strong>320 E 82nd St</strong><br>New York, NY 10028.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9916188,
+                    40.7631754
+                ]
+            },
+            "properties": {
+                "id": "439-443-west-48th-st",
+                "description": "<strong>439-443 West 48th St</strong><br>New York, NY 10036.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0854605,
+                    32.7118234
+                ]
+            },
+            "properties": {
+                "id": "602-euclid-ave",
+                "description": "<strong>602 Euclid Ave</strong><br>San Diego, CA 92114.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9926104,
+                    40.7521192
+                ]
+            },
+            "properties": {
+                "id": "257-263-west-34th-st",
+                "description": "<strong>257-263 West 34th St</strong><br>New York, NY 10001.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.5362242,
+                    34.1919553
+                ]
+            },
+            "properties": {
+                "id": "6611-6639-reseda-blvd",
+                "description": "<strong>6611-6639 Reseda Blvd</strong><br>Los Angeles, CA 91335.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2825594,
+                    34.0600709
+                ]
+            },
+            "properties": {
+                "id": "668-south-rampart-boulevard",
+                "description": "<strong>668 South Rampart Boulevard</strong><br>Los Angeles, CA 90057.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.08872,
+                    26.5430029
+                ]
+            },
+            "properties": {
+                "id": "1625-renaissance-commons-blvd",
+                "description": "<strong>1625 Renaissance Commons Blvd</strong><br>Boynton Beach, FL 33426.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2833985,
+                    34.1040732
+                ]
+            },
+            "properties": {
+                "id": "4310-russell-avenue",
+                "description": "<strong>4310 Russell Avenue</strong><br>Los Angeles, CA 90027.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2899778,
+                    34.0548379
+                ]
+            },
+            "properties": {
+                "id": "2816-san-marino-st",
+                "description": "<strong>2816 San Marino St</strong><br>Los Angeles, CA 90006.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2736571,
+                    34.0618339
+                ]
+            },
+            "properties": {
+                "id": "341-south-alvarado-st",
+                "description": "<strong>341 South Alvarado St</strong><br>Los Angeles, CA 90057.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3962748,
+                    34.0569572
+                ]
+            },
+            "properties": {
+                "id": "1100-south-beverly-drive",
+                "description": "<strong>1100 South Beverly Drive</strong><br>Los Angeles, CA 90035.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.35552,
+                    34.02442
+                ]
+            },
+            "properties": {
+                "id": "3431-s-la-brea-ave",
+                "description": "<strong>3431 S. La Brea Ave</strong><br>Los Angeles, CA 90016.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.441542,
+                    38.5476867
+                ]
+            },
+            "properties": {
+                "id": "701-fairgrounds-dr",
+                "description": "<strong>701 Fairgrounds Dr</strong><br>Sacramento, CA 95817.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2399481,
+                    33.8880867
+                ]
+            },
+            "properties": {
+                "id": "900-south-dwight",
+                "description": "<strong>900 South Dwight</strong><br>Compton, CA 90220.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.45734630000001,
+                    28.506614
+                ]
+            },
+            "properties": {
+                "id": "3301-south-kirkman-rd",
+                "description": "<strong>3301 South Kirkman Rd</strong><br>Orlando, FL 32811.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3485429,
+                    27.9351539
+                ]
+            },
+            "properties": {
+                "id": "1502-marsh-cove-ct",
+                "description": "<strong>1502 Marsh Cove Ct</strong><br>Tampa, FL 33619.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01349619999999,
+                    38.9000332
+                ]
+            },
+            "properties": {
+                "id": "1111-mass-ave-nw",
+                "description": "<strong>1111 Mass Ave NW</strong><br>Washington, D.C. 20005.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9923726,
+                    40.7556002
+                ]
+            },
+            "properties": {
+                "id": "320-350-west-39th-st",
+                "description": "<strong>320-350 West 39th St</strong><br>New York, NY 10018.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959324,
+                    40.731989
+                ]
+            },
+            "properties": {
+                "id": "144-west-st",
+                "description": "<strong>144 West St</strong><br>Brooklyn, NY 11222.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.969556,
+                    34.9593674
+                ]
+            },
+            "properties": {
+                "id": "sp-rock-hill-commerce-east",
+                "description": "<strong>SP Rock Hill Commerce East</strong><br>Rock Hill, SC 29730.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.46993160000001,
+                    28.5816677
+                ]
+            },
+            "properties": {
+                "id": "3024-north-powers-dr",
+                "description": "<strong>3024 North Powers Dr</strong><br>Orlando, FL 32818.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63171380000001,
+                    41.9037405
+                ]
+            },
+            "properties": {
+                "id": "101-113-west-division-st",
+                "description": "<strong>101-113 West Division St</strong><br>Chicago, IL 60610.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0338349,
+                    38.8997503
+                ]
+            },
+            "properties": {
+                "id": "740-15th-st-nw",
+                "description": "<strong>740 15th St NW</strong><br>Washington, DC 20005.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0333054,
+                    38.8996117
+                ]
+            },
+            "properties": {
+                "id": "727-15th-st-nw",
+                "description": "<strong>727 15th St NW</strong><br>Washington, DC 20005.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2799987,
+                    34.0249594
+                ]
+            },
+            "properties": {
+                "id": "3030-shrine-place",
+                "description": "<strong>3030 Shrine Place</strong><br>Los Angeles, CA 90007.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6917636,
+                    45.5325576
+                ]
+            },
+            "properties": {
+                "id": "1954-nw-pettygrove-st",
+                "description": "<strong>1954 NW Pettygrove St</strong><br>Portland, OR 97209.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8663466,
+                    40.7322025
+                ]
+            },
+            "properties": {
+                "id": "92-77-queens-blvd",
+                "description": "<strong>92-77 Queens Blvd</strong><br>Rego Park, NY 11374.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7148184,
+                    28.0612708
+                ]
+            },
+            "properties": {
+                "id": "220-calibre-downs-ln",
+                "description": "<strong>220 Calibre Downs Ln</strong><br>Palm Harbor, FL 34684.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9740298,
+                    40.784322
+                ]
+            },
+            "properties": {
+                "id": "468-columbus-ave",
+                "description": "<strong>468 Columbus Ave</strong><br>New York, NY 10024.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9945444,
+                    40.7230777
+                ]
+            },
+            "properties": {
+                "id": "27-prince-st",
+                "description": "<strong>27 Prince St</strong><br>New York, NY 10012.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1404459,
+                    39.7094641
+                ]
+            },
+            "properties": {
+                "id": "434-485-s-wright-st",
+                "description": "<strong>434-485 S. Wright St</strong><br>Lakewood, CO 80228.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.23018479999999,
+                    33.8232297
+                ]
+            },
+            "properties": {
+                "id": "1500-post-oak-dr",
+                "description": "<strong>1500 Post Oak Dr</strong><br>Clarkston, GA 30021.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2375344,
+                    33.9506368
+                ]
+            },
+            "properties": {
+                "id": "1500-holcomb-bridge-rd",
+                "description": "<strong>1500 Holcomb Bridge Rd</strong><br>Norcross, GA 30092.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6631877,
+                    41.9651202
+                ]
+            },
+            "properties": {
+                "id": "1325-w-wilson-ave",
+                "description": "<strong>1325 W. Wilson Ave</strong><br>Chicago, IL 60640.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4135326,
+                    37.77955960000001
+                ]
+            },
+            "properties": {
+                "id": "1155-market-st",
+                "description": "<strong>1155 Market St</strong><br>San Francisco, CA 94103.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9942373,
+                    40.7539349
+                ]
+            },
+            "properties": {
+                "id": "334-west-36th-st",
+                "description": "<strong>334 West 36th St</strong><br>New York, NY 10018.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9936111,
+                    40.754486
+                ]
+            },
+            "properties": {
+                "id": "326-330-west-37th-st",
+                "description": "<strong>326-330 West 37th St</strong><br>New York, NY 10018.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831021,
+                    40.6923307
+                ]
+            },
+            "properties": {
+                "id": "141-willoughby-st",
+                "description": "<strong>141 Willoughby St</strong><br>Brooklyn, NY 11201.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3537351,
+                    34.1329685
+                ]
+            },
+            "properties": {
+                "id": "3450-west-cahuenga-blvd",
+                "description": "<strong>3450 West Cahuenga Blvd</strong><br>Los Angeles, CA 90068.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00970819999999,
+                    40.7093739
+                ]
+            },
+            "properties": {
+                "id": "8-12-maiden-ln",
+                "description": "<strong>8-12 Maiden Ln</strong><br>New York, NY 10038.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.44977829999999,
+                    41.3698929
+                ]
+            },
+            "properties": {
+                "id": "515-s-6th-st",
+                "description": "<strong>515 S 6th St</strong><br>Princeton, IL 61356.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.71857270000001,
+                    41.3278086
+                ]
+            },
+            "properties": {
+                "id": "578-commercial-st",
+                "description": "<strong>578 Commercial St</strong><br>Marseilles, IL 61341.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6631031,
+                    39.8080066
+                ]
+            },
+            "properties": {
+                "id": "555-w-carpenter-st",
+                "description": "<strong>555 W Carpenter St</strong><br>Springfield, IL 62702.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.4705728,
+                    40.591366
+                ]
+            },
+            "properties": {
+                "id": "191-e-queenwood-rd",
+                "description": "<strong>191 E. Queenwood Rd</strong><br>Morton, IL 61550.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.47026849999999,
+                    40.59008680000001
+                ]
+            },
+            "properties": {
+                "id": "190-e-queenwood-rd",
+                "description": "<strong>190 E. Queenwood Rd</strong><br>Morton, IL 61550.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.56850469999999,
+                    40.7589265
+                ]
+            },
+            "properties": {
+                "id": "1629-gardner-lane",
+                "description": "<strong>1629 Gardner Lane</strong><br>Peoria Heights, IL 61616.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961786,
+                    40.661566
+                ]
+            },
+            "properties": {
+                "id": "510-flatbush-ave-31-lincoln-rd",
+                "description": "<strong>510 Flatbush Ave; 31 Lincoln Rd</strong><br>Brooklyn, NY 11225.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1892017,
+                    39.450331
+                ]
+            },
+            "properties": {
+                "id": "1030-hunters-run-dr",
+                "description": "<strong>1030 Hunters Run Dr</strong><br>Lebanon, OH 45036.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2290574,
+                    34.0330724
+                ]
+            },
+            "properties": {
+                "id": "2118-2120-2124-2140-east-7th-place-and-2117-violet-st",
+                "description": "<strong>2118, 2120, 2124, 2140 East 7th Place, and 2117 Violet St</strong><br>Los Angeles, CA 90021.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.583635,
+                    41.7992981
+                ]
+            },
+            "properties": {
+                "id": "5307-south-hyde-park-boulevard",
+                "description": "<strong>5307 South Hyde Park Boulevard</strong><br>Chicago, IL 60615.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9248192,
+                    40.6409714
+                ]
+            },
+            "properties": {
+                "id": "5407-5419-kings-hwy",
+                "description": "<strong>5407-5419 Kings Hwy</strong><br>Brooklyn, NY 11203.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8601484,
+                    39.7410668
+                ]
+            },
+            "properties": {
+                "id": "1570-joliet-st-d007",
+                "description": "<strong>1570 Joliet St #D007</strong><br>Aurora, CO 80010.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8248838,
+                    39.17917509999999
+                ]
+            },
+            "properties": {
+                "id": "7030-gentle-shade-rd",
+                "description": "<strong>7030 Gentle Shade Rd</strong><br>Columbia, MD 21046.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.39057869999999,
+                    40.434473
+                ]
+            },
+            "properties": {
+                "id": "611-new-jersey-18",
+                "description": "<strong>611 New Jersey 18</strong><br>East Brunswick, NJ 8816.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4477066,
+                    34.41214120000001
+                ]
+            },
+            "properties": {
+                "id": "27303-sara-st",
+                "description": "<strong>27303 Sara St</strong><br>Canyon Country, CA 91387.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8635,
+                    40.8559553
+                ]
+            },
+            "properties": {
+                "id": "2146-2162-2182-barnes-ave",
+                "description": "<strong>2146, 2162, 2182 Barnes Ave</strong><br>Bronx, NY 10462.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8649659,
+                    40.8539076
+                ]
+            },
+            "properties": {
+                "id": "2131-wallace-ave",
+                "description": "<strong>2131 Wallace Ave</strong><br>Bronx, NY 10462.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9578232,
+                    40.7197451
+                ]
+            },
+            "properties": {
+                "id": "north-9th-st",
+                "description": "<strong>North 9th St</strong><br>Brooklyn, NY nan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9130427,
+                    37.3091204
+                ]
+            },
+            "properties": {
+                "id": "950-meridian-ave",
+                "description": "<strong>950 Meridian Ave</strong><br>San Jose, CA 95126.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1507344,
+                    32.3549995
+                ]
+            },
+            "properties": {
+                "id": "4500-interstate-55-north",
+                "description": "<strong>4500 Interstate 55 North</strong><br>Jackson, MS 39206.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.371431,
+                    39.3167227
+                ]
+            },
+            "properties": {
+                "id": "cincinnati-columbus",
+                "description": "<strong>Cincinnati & Columbus</strong><br>Cincinnati & Columbus, OH nan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.0326464,
+                    35.6106648
+                ]
+            },
+            "properties": {
+                "id": "8380-cerrillos-rd",
+                "description": "<strong>8380 Cerrillos Rd</strong><br>Santa Fe, NM 87507.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.251703,
+                    34.0659885
+                ]
+            },
+            "properties": {
+                "id": "1168-bellevue",
+                "description": "<strong>1168 Bellevue</strong><br>Los Angeles, CA 90012.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4362243,
+                    38.5027268
+                ]
+            },
+            "properties": {
+                "id": "5545-sky-pkwy",
+                "description": "<strong>5545 Sky Pkwy</strong><br>Sacramento, CA 95823.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9576534,
+                    40.7751471
+                ]
+            },
+            "properties": {
+                "id": "170-east-80th-st",
+                "description": "<strong>170 East 80th St</strong><br>New York, NY 10075.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6321384,
+                    41.8815707
+                ]
+            },
+            "properties": {
+                "id": "11-south-lasalle",
+                "description": "<strong>11 South LaSalle</strong><br>Chicago, IL 60605.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13206579999999,
+                    25.7775566
+                ]
+            },
+            "properties": {
+                "id": "735-collins-ave",
+                "description": "<strong>735 Collins Ave</strong><br>Miami, FL 33139.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0081847,
+                    40.7162583
+                ]
+            },
+            "properties": {
+                "id": "148-duane-st",
+                "description": "<strong>148 Duane St</strong><br>New York, NY 10013.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.970671,
+                    40.7515735
+                ]
+            },
+            "properties": {
+                "id": "844-second-ave",
+                "description": "<strong>844 Second Ave</strong><br>New York, NY 10017.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0075368,
+                    40.7091131
+                ]
+            },
+            "properties": {
+                "id": "55-john-st",
+                "description": "<strong>55 John St</strong><br>New York, NY 10038.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87917689999999,
+                    40.7136268
+                ]
+            },
+            "properties": {
+                "id": "62-74-ave-b",
+                "description": "<strong>62-74 Ave B</strong><br>New York, NY 11379.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9145712,
+                    37.3232725
+                ]
+            },
+            "properties": {
+                "id": "1400-west-san-carlos-st",
+                "description": "<strong>1400 West San Carlos St</strong><br>San Jose, CA 95126.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9772478,
+                    40.74755070000001
+                ]
+            },
+            "properties": {
+                "id": "554-556-third-ave",
+                "description": "<strong>554-556 Third Ave</strong><br>New York, NY 10016.0"
+            }
+        }
+    ]
+}
