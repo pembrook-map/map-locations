@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "Address": "531 West 25th Street",
-        "Property Names ": "Chelsea Condo",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10001,
+        "Property Name": "Chelsea Condo",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10001,
         "ID": 1
       },
       "geometry": {
@@ -23,10 +23,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1350 Holiday Lane",
-        "Property Names ": "Courtyard by Marriott",
-        "City ": "Fairfield",
-        "State ": "CA",
-        "Zipcode ": 94534,
+        "Property Name": "Courtyard by Marriott",
+        "City": "Fairfield",
+        "State": "CA",
+        "Zipcode": 94534,
         "ID": 2
       },
       "geometry": {
@@ -41,10 +41,10 @@
       "type": "Feature",
       "properties": {
         "Address": "201 Marin Blvd",
-        "Property Names ": "Gull’s Cove Condominiums",
-        "City ": "Jersey City",
-        "State ": "NJ",
-        "Zipcode ": "07302",
+        "Property Name": "Gull’s Cove Condominiums",
+        "City": "Jersey City",
+        "State": "NJ",
+        "Zipcode": "07302",
         "ID": 3
       },
       "geometry": {
@@ -59,10 +59,10 @@
       "type": "Feature",
       "properties": {
         "Address": "100 Chopin Plaza",
-        "Property Names ": "Intercontinental Hotel Miami",
-        "City ": "Miami",
-        "State ": "FL",
-        "Zipcode ": 33131,
+        "Property Name": "Intercontinental Hotel Miami",
+        "City": "Miami",
+        "State": "FL",
+        "Zipcode": 33131,
         "ID": 4
       },
       "geometry": {
@@ -77,10 +77,10 @@
       "type": "Feature",
       "properties": {
         "Address": "197 Westbank Expy",
-        "Property Names ": "Oakwood Shopping Center",
-        "City ": "Gretna",
-        "State ": "LA",
-        "Zipcode ": 70053,
+        "Property Name": "Oakwood Shopping Center",
+        "City": "Gretna",
+        "State": "LA",
+        "Zipcode": 70053,
         "ID": 5
       },
       "geometry": {
@@ -95,10 +95,10 @@
       "type": "Feature",
       "properties": {
         "Address": "463 Wooster Ave",
-        "Property Names ": "Parkside Terrace Apartments",
-        "City ": "San Jose",
-        "State ": "CA",
-        "Zipcode ": 95116,
+        "Property Name": "Parkside Terrace Apartments",
+        "City": "San Jose",
+        "State": "CA",
+        "Zipcode": 95116,
         "ID": 6
       },
       "geometry": {
@@ -113,10 +113,10 @@
       "type": "Feature",
       "properties": {
         "Address": "International Drive & W. Oakridge Rd. ",
-        "Property Names ": "Prime Outlet Center",
-        "City ": "Orlando",
-        "State ": "FL",
-        "Zipcode ": 32819,
+        "Property Name": "Prime Outlet Center",
+        "City": "Orlando",
+        "State": "FL",
+        "Zipcode": 32819,
         "ID": 7
       },
       "geometry": {
@@ -131,10 +131,10 @@
       "type": "Feature",
       "properties": {
         "Address": "12777 Allegany Road",
-        "Property Names ": "Seneca",
-        "City ": "Jimerson Town",
-        "State ": "NY",
-        "Zipcode ": 14081,
+        "Property Name": "Seneca",
+        "City": "Jimerson Town",
+        "State": "NY",
+        "Zipcode": 14081,
         "ID": 8
       },
       "geometry": {
@@ -149,10 +149,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6850 Mableton Pkwy SE",
-        "Property Names ": "Sweetwater Cove Apts",
-        "City ": "Mableton",
-        "State ": "GA",
-        "Zipcode ": 30126,
+        "Property Name": "Sweetwater Cove Apts",
+        "City": "Mableton",
+        "State": "GA",
+        "Zipcode": 30126,
         "ID": 9
       },
       "geometry": {
@@ -167,10 +167,10 @@
       "type": "Feature",
       "properties": {
         "Address": "835 Hamilton Street",
-        "Property Names ": "The Plaza at PPL Center",
-        "City ": "Allentown",
-        "State ": "PA",
-        "Zipcode ": 18101,
+        "Property Name": "The Plaza at PPL Center",
+        "City": "Allentown",
+        "State": "PA",
+        "Zipcode": 18101,
         "ID": 10
       },
       "geometry": {
@@ -185,10 +185,10 @@
       "type": "Feature",
       "properties": {
         "Address": "701 B St #110",
-        "Property Names ": "Thomas Jefferson School of Law",
-        "City ": "San Diego",
-        "State ": "CA",
-        "Zipcode ": 92101,
+        "Property Name": "Thomas Jefferson School of Law",
+        "City": "San Diego",
+        "State": "CA",
+        "Zipcode": 92101,
         "ID": 11
       },
       "geometry": {
@@ -203,10 +203,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1685-1775 38th Street",
-        "Property Names ": "",
-        "City ": "Boulder",
-        "State ": "CO",
-        "Zipcode ": 80301,
+        "Property Name": "",
+        "City": "Boulder",
+        "State": "CO",
+        "Zipcode": 80301,
         "ID": 12
       },
       "geometry": {
@@ -221,10 +221,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6904 Hollywood Blvd",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90028,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90028,
         "ID": 13
       },
       "geometry": {
@@ -239,10 +239,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5949 Bethelview Rd",
-        "Property Names ": "",
-        "City ": "Cumming",
-        "State ": "GA",
-        "Zipcode ": 30040,
+        "Property Name": "",
+        "City": "Cumming",
+        "State": "GA",
+        "Zipcode": 30040,
         "ID": 14
       },
       "geometry": {
@@ -257,10 +257,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3055 Old Atlanta Rd",
-        "Property Names ": "",
-        "City ": "Cumming",
-        "State ": "GA",
-        "Zipcode ": 30041,
+        "Property Name": "",
+        "City": "Cumming",
+        "State": "GA",
+        "Zipcode": 30041,
         "ID": 15
       },
       "geometry": {
@@ -275,10 +275,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6204 Ganers Ferry Rd",
-        "Property Names ": "",
-        "City ": "Columbia",
-        "State ": "SC",
-        "Zipcode ": 29209,
+        "Property Name": "",
+        "City": "Columbia",
+        "State": "SC",
+        "Zipcode": 29209,
         "ID": 16
       },
       "geometry": {
@@ -293,10 +293,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1210 Beaver Commons Dr",
-        "Property Names ": "",
-        "City ": "Apex",
-        "State ": "NC",
-        "Zipcode ": 27502,
+        "Property Name": "",
+        "City": "Apex",
+        "State": "NC",
+        "Zipcode": 27502,
         "ID": 17
       },
       "geometry": {
@@ -311,10 +311,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4002 Village Park Dr",
-        "Property Names ": "",
-        "City ": "Knightdale",
-        "State ": "NC",
-        "Zipcode ": 27545,
+        "Property Name": "",
+        "City": "Knightdale",
+        "State": "NC",
+        "Zipcode": 27545,
         "ID": 18
       },
       "geometry": {
@@ -329,10 +329,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1000-5000 Ericsson Drive",
-        "Property Names ": "Keystone Summit Corporate Park",
-        "City ": "Warrendale ",
-        "State ": "PA",
-        "Zipcode ": 15086,
+        "Property Name": "Keystone Summit Corporate Park",
+        "City": "Warrendale ",
+        "State": "PA",
+        "Zipcode": 15086,
         "ID": 19
       },
       "geometry": {
@@ -347,10 +347,10 @@
       "type": "Feature",
       "properties": {
         "Address": "13550 Healthcote Blvd",
-        "Property Names ": "Marque at Heritage Hunt",
-        "City ": "Gainesville",
-        "State ": "VA",
-        "Zipcode ": 20155,
+        "Property Name": "Marque at Heritage Hunt",
+        "City": "Gainesville",
+        "State": "VA",
+        "Zipcode": 20155,
         "ID": 20
       },
       "geometry": {
@@ -365,10 +365,10 @@
       "type": "Feature",
       "properties": {
         "Address": "55 John St",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10038,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10038,
         "ID": 21
       },
       "geometry": {
@@ -383,10 +383,10 @@
       "type": "Feature",
       "properties": {
         "Address": "62-74 Avenue B",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10009,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10009,
         "ID": 22
       },
       "geometry": {
@@ -401,10 +401,10 @@
       "type": "Feature",
       "properties": {
         "Address": "554-556 Third Ave",
-        "Property Names ": "Aurora",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10016,
+        "Property Name": "Aurora",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10016,
         "ID": 23
       },
       "geometry": {
@@ -419,10 +419,10 @@
       "type": "Feature",
       "properties": {
         "Address": "844 Second Ave",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10017,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10017,
         "ID": 24
       },
       "geometry": {
@@ -437,10 +437,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2271 Morris Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10453,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10453,
         "ID": 25
       },
       "geometry": {
@@ -455,10 +455,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2265 Morris Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10453,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10453,
         "ID": 26
       },
       "geometry": {
@@ -473,10 +473,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2350 Creston Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10468,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10468,
         "ID": 27
       },
       "geometry": {
@@ -491,10 +491,10 @@
       "type": "Feature",
       "properties": {
         "Address": "735 Bryant Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10474,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10474,
         "ID": 28
       },
       "geometry": {
@@ -509,10 +509,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2345 Crotona Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10458,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10458,
         "ID": 29
       },
       "geometry": {
@@ -527,10 +527,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3212 Cruger Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10467,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10467,
         "ID": 30
       },
       "geometry": {
@@ -545,10 +545,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1221 Sheridan Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10456,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10456,
         "ID": 31
       },
       "geometry": {
@@ -563,10 +563,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1225 Sheridan Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10456,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10456,
         "ID": 32
       },
       "geometry": {
@@ -581,10 +581,10 @@
       "type": "Feature",
       "properties": {
         "Address": "500 East Armour Boulevard",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 33
       },
       "geometry": {
@@ -599,10 +599,10 @@
       "type": "Feature",
       "properties": {
         "Address": "301 West Armour Boulevard",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 34
       },
       "geometry": {
@@ -617,10 +617,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3420 Locust Street",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 35
       },
       "geometry": {
@@ -635,10 +635,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3421 Locust Street",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 36
       },
       "geometry": {
@@ -653,10 +653,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3425 Locust Street",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 37
       },
       "geometry": {
@@ -671,10 +671,10 @@
       "type": "Feature",
       "properties": {
         "Address": "308-310 East 34th Street",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64111,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64111,
         "ID": 38
       },
       "geometry": {
@@ -689,10 +689,10 @@
       "type": "Feature",
       "properties": {
         "Address": "214 East Armour Boulevard",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64111,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64111,
         "ID": 39
       },
       "geometry": {
@@ -707,10 +707,10 @@
       "type": "Feature",
       "properties": {
         "Address": "809-811 East Armour Boulevard",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 40
       },
       "geometry": {
@@ -725,10 +725,10 @@
       "type": "Feature",
       "properties": {
         "Address": "615-621 East Armour Boulevard",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 41
       },
       "geometry": {
@@ -743,10 +743,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3511 Cherry Street",
-        "Property Names ": "",
-        "City ": "Kansas City",
-        "State ": "MO",
-        "Zipcode ": 64109,
+        "Property Name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Zipcode": 64109,
         "ID": 42
       },
       "geometry": {
@@ -761,10 +761,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1400 West San Carlos Street",
-        "Property Names ": "Meridian Apartments",
-        "City ": "San Jose",
-        "State ": "CA",
-        "Zipcode ": 95126,
+        "Property Name": "Meridian Apartments",
+        "City": "San Jose",
+        "State": "CA",
+        "Zipcode": 95126,
         "ID": 43
       },
       "geometry": {
@@ -779,10 +779,10 @@
       "type": "Feature",
       "properties": {
         "Address": "14289 Potomac Mills Rd",
-        "Property Names ": "Potomac Festival I",
-        "City ": "Woodbridge",
-        "State ": "VA",
-        "Zipcode ": 22192,
+        "Property Name": "Potomac Festival I",
+        "City": "Woodbridge",
+        "State": "VA",
+        "Zipcode": 22192,
         "ID": 44
       },
       "geometry": {
@@ -797,10 +797,10 @@
       "type": "Feature",
       "properties": {
         "Address": "11 South LaSalle",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60605,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60605,
         "ID": 45
       },
       "geometry": {
@@ -815,10 +815,10 @@
       "type": "Feature",
       "properties": {
         "Address": "148 Duane Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10013,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10013,
         "ID": 46
       },
       "geometry": {
@@ -833,10 +833,10 @@
       "type": "Feature",
       "properties": {
         "Address": "170 East 80th Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10075,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10075,
         "ID": 47
       },
       "geometry": {
@@ -851,10 +851,10 @@
       "type": "Feature",
       "properties": {
         "Address": "735 Collins Avenue",
-        "Property Names ": "",
-        "City ": "Miami",
-        "State ": "FL",
-        "Zipcode ": 33139,
+        "Property Name": "",
+        "City": "Miami",
+        "State": "FL",
+        "Zipcode": 33139,
         "ID": 48
       },
       "geometry": {
@@ -869,10 +869,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5545 Sky Pkwy",
-        "Property Names ": "Azure Park Apartments",
-        "City ": "Sacramento",
-        "State ": "CA",
-        "Zipcode ": 95823,
+        "Property Name": "Azure Park Apartments",
+        "City": "Sacramento",
+        "State": "CA",
+        "Zipcode": 95823,
         "ID": 49
       },
       "geometry": {
@@ -887,10 +887,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1168 Bellevue",
-        "Property Names ": "Brownstone Lofts",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90012,
+        "Property Name": "Brownstone Lofts",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90012,
         "ID": 50
       },
       "geometry": {
@@ -905,10 +905,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8380 Cerrillos Road",
-        "Property Names ": "Fashion Outlets of Santa Fe",
-        "City ": "Santa Fe",
-        "State ": "NM",
-        "Zipcode ": 87507,
+        "Property Name": "Fashion Outlets of Santa Fe",
+        "City": "Santa Fe",
+        "State": "NM",
+        "Zipcode": 87507,
         "ID": 51
       },
       "geometry": {
@@ -923,10 +923,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2700-2758 Kemper",
-        "Property Names ": "",
-        "City ": "Cincinnati",
-        "State ": "OH",
-        "Zipcode ": 45241,
+        "Property Name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Zipcode": 45241,
         "ID": 52
       },
       "geometry": {
@@ -941,10 +941,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2800 2888 Kemper",
-        "Property Names ": "",
-        "City ": "Cincinnati",
-        "State ": "OH",
-        "Zipcode ": 45241,
+        "Property Name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Zipcode": 45241,
         "ID": 53
       },
       "geometry": {
@@ -959,10 +959,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6900-6918 Fairfield",
-        "Property Names ": "",
-        "City ": "Cincinnati",
-        "State ": "OH",
-        "Zipcode ": 45014,
+        "Property Name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Zipcode": 45014,
         "ID": 54
       },
       "geometry": {
@@ -977,10 +977,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4514-4548 Cornell",
-        "Property Names ": "",
-        "City ": "Cincinnati",
-        "State ": "OH",
-        "Zipcode ": 45241,
+        "Property Name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Zipcode": 45241,
         "ID": 55
       },
       "geometry": {
@@ -995,10 +995,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6854 South Cornell Ave",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 56
       },
       "geometry": {
@@ -1013,10 +1013,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4500 Interstate 55 North",
-        "Property Names ": "Highland Village Shopping Center",
-        "City ": "Jackson ",
-        "State ": "MS",
-        "Zipcode ": 39211,
+        "Property Name": "Highland Village Shopping Center",
+        "City": "Jackson ",
+        "State": "MS",
+        "Zipcode": 39211,
         "ID": 57
       },
       "geometry": {
@@ -1031,10 +1031,10 @@
       "type": "Feature",
       "properties": {
         "Address": "950 Meridian Avenue",
-        "Property Names ": "Meridian Apartments",
-        "City ": "San Jose",
-        "State ": "CA",
-        "Zipcode ": 95126,
+        "Property Name": "Meridian Apartments",
+        "City": "San Jose",
+        "State": "CA",
+        "Zipcode": 95126,
         "ID": 58
       },
       "geometry": {
@@ -1049,10 +1049,10 @@
       "type": "Feature",
       "properties": {
         "Address": "237-243 North 9th Street",
-        "Property Names ": "",
-        "City ": "Brooklyn ",
-        "State ": "NY",
-        "Zipcode ": 11211,
+        "Property Name": "",
+        "City": "Brooklyn ",
+        "State": "NY",
+        "Zipcode": 11211,
         "ID": 59
       },
       "geometry": {
@@ -1067,10 +1067,10 @@
       "type": "Feature",
       "properties": {
         "Address": "261-263 North 9th Street",
-        "Property Names ": "",
-        "City ": "Brooklyn",
-        "State ": "NY",
-        "Zipcode ": 11211,
+        "Property Name": "",
+        "City": "Brooklyn",
+        "State": "NY",
+        "Zipcode": 11211,
         "ID": 60
       },
       "geometry": {
@@ -1085,10 +1085,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2131 Wallace Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10462,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10462,
         "ID": 61
       },
       "geometry": {
@@ -1103,10 +1103,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2146 Barnes Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10462,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10462,
         "ID": 62
       },
       "geometry": {
@@ -1121,10 +1121,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2162 Barnes Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10462,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10462,
         "ID": 63
       },
       "geometry": {
@@ -1139,10 +1139,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2182 Barnes Avenue",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10462,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10462,
         "ID": 64
       },
       "geometry": {
@@ -1157,10 +1157,10 @@
       "type": "Feature",
       "properties": {
         "Address": "27303 Sara St",
-        "Property Names ": "Riverpark Apartments",
-        "City ": "Canyon Country",
-        "State ": "CA",
-        "Zipcode ": 91387,
+        "Property Name": "Riverpark Apartments",
+        "City": "Canyon Country",
+        "State": "CA",
+        "Zipcode": 91387,
         "ID": 65
       },
       "geometry": {
@@ -1175,10 +1175,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7030 Gentle Shade Road",
-        "Property Names ": "Stonehaven Apartments",
-        "City ": "Columbia",
-        "State ": "MD",
-        "Zipcode ": 21046,
+        "Property Name": "Stonehaven Apartments",
+        "City": "Columbia",
+        "State": "MD",
+        "Zipcode": 21046,
         "ID": 66
       },
       "geometry": {
@@ -1193,10 +1193,10 @@
       "type": "Feature",
       "properties": {
         "Address": "611 New Jersey 18",
-        "Property Names ": "Summerhill Square",
-        "City ": "East Brunswick",
-        "State ": "NJ",
-        "Zipcode ": "08816",
+        "Property Name": "Summerhill Square",
+        "City": "East Brunswick",
+        "State": "NJ",
+        "Zipcode": "08816",
         "ID": 67
       },
       "geometry": {
@@ -1211,10 +1211,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1570 Joliet St",
-        "Property Names ": "Windsor Court Apartments",
-        "City ": "Aurora",
-        "State ": "CO",
-        "Zipcode ": 80010,
+        "Property Name": "Windsor Court Apartments",
+        "City": "Aurora",
+        "State": "CO",
+        "Zipcode": 80010,
         "ID": 68
       },
       "geometry": {
@@ -1229,10 +1229,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5407-5419 Kings Hwy",
-        "Property Names ": "Clarendon Gardens",
-        "City ": "Brooklyn",
-        "State ": "NY",
-        "Zipcode ": 11203,
+        "Property Name": "Clarendon Gardens",
+        "City": "Brooklyn",
+        "State": "NY",
+        "Zipcode": 11203,
         "ID": 69
       },
       "geometry": {
@@ -1247,10 +1247,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5307 South Hyde Park Boulevard",
-        "Property Names ": "Del Prado",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "Del Prado",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 70
       },
       "geometry": {
@@ -1265,10 +1265,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2118 East 7th Place",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90021,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90021,
         "ID": 71
       },
       "geometry": {
@@ -1283,10 +1283,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2120 East 7th Place",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90021,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90021,
         "ID": 72
       },
       "geometry": {
@@ -1301,10 +1301,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2124 East 7th Place ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90021,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90021,
         "ID": 73
       },
       "geometry": {
@@ -1319,10 +1319,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2140 East 7th Place ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90021,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90021,
         "ID": 74
       },
       "geometry": {
@@ -1337,10 +1337,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2117 Violet Street ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90021,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90021,
         "ID": 75
       },
       "geometry": {
@@ -1355,10 +1355,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1030 Hunters Run Drive",
-        "Property Names ": "Hunters Run",
-        "City ": "Lebanon",
-        "State ": "OH",
-        "Zipcode ": 45036,
+        "Property Name": "Hunters Run",
+        "City": "Lebanon",
+        "State": "OH",
+        "Zipcode": 45036,
         "ID": 76
       },
       "geometry": {
@@ -1373,10 +1373,10 @@
       "type": "Feature",
       "properties": {
         "Address": "510 Flatbush Avenue",
-        "Property Names ": "Lincoln Park",
-        "City ": "Brooklyn",
-        "State ": "NY",
-        "Zipcode ": 11225,
+        "Property Name": "Lincoln Park",
+        "City": "Brooklyn",
+        "State": "NY",
+        "Zipcode": 11225,
         "ID": 77
       },
       "geometry": {
@@ -1391,10 +1391,10 @@
       "type": "Feature",
       "properties": {
         "Address": "31 Lincoln Road",
-        "Property Names ": "Lincoln Park",
-        "City ": "Brooklyn",
-        "State ": "NY",
-        "Zipcode ": 11225,
+        "Property Name": "Lincoln Park",
+        "City": "Brooklyn",
+        "State": "NY",
+        "Zipcode": 11225,
         "ID": 78
       },
       "geometry": {
@@ -1409,10 +1409,10 @@
       "type": "Feature",
       "properties": {
         "Address": "515 S 6th Street ",
-        "Property Names ": "Colonial Hall Care Center",
-        "City ": "Princeton",
-        "State ": "IL",
-        "Zipcode ": 61356,
+        "Property Name": "Colonial Hall Care Center",
+        "City": "Princeton",
+        "State": "IL",
+        "Zipcode": 61356,
         "ID": 79
       },
       "geometry": {
@@ -1427,10 +1427,10 @@
       "type": "Feature",
       "properties": {
         "Address": "578 Commercial Street",
-        "Property Names ": "Rivershores",
-        "City ": "Marseilles",
-        "State ": "IL",
-        "Zipcode ": 61341,
+        "Property Name": "Rivershores",
+        "City": "Marseilles",
+        "State": "IL",
+        "Zipcode": 61341,
         "ID": 80
       },
       "geometry": {
@@ -1445,10 +1445,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1629 Gardner Lane",
-        "Property Names ": "Bella Vista",
-        "City ": "Peoria Heights",
-        "State ": "IL",
-        "Zipcode ": 61616,
+        "Property Name": "Bella Vista",
+        "City": "Peoria Heights",
+        "State": "IL",
+        "Zipcode": 61616,
         "ID": 81
       },
       "geometry": {
@@ -1463,10 +1463,10 @@
       "type": "Feature",
       "properties": {
         "Address": "190 E. Queenwood Road",
-        "Property Names ": "Morton Villa",
-        "City ": "Morton",
-        "State ": "IL",
-        "Zipcode ": 61550,
+        "Property Name": "Morton Villa",
+        "City": "Morton",
+        "State": "IL",
+        "Zipcode": 61550,
         "ID": 82
       },
       "geometry": {
@@ -1481,10 +1481,10 @@
       "type": "Feature",
       "properties": {
         "Address": "191 E. Queenwood Road",
-        "Property Names ": "Morton Terrace",
-        "City ": "Morton",
-        "State ": "IL",
-        "Zipcode ": 61550,
+        "Property Name": "Morton Terrace",
+        "City": "Morton",
+        "State": "IL",
+        "Zipcode": 61550,
         "ID": 83
       },
       "geometry": {
@@ -1499,10 +1499,10 @@
       "type": "Feature",
       "properties": {
         "Address": "555 W Carpenter Street",
-        "Property Names ": "Capital Care Center",
-        "City ": "Springfield",
-        "State ": "IL",
-        "Zipcode ": 62702,
+        "Property Name": "Capital Care Center",
+        "City": "Springfield",
+        "State": "IL",
+        "Zipcode": 62702,
         "ID": 84
       },
       "geometry": {
@@ -1517,10 +1517,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3450 West Cahuenga Boulevard",
-        "Property Names ": "Universal Lofts",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90068,
+        "Property Name": "Universal Lofts",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90068,
         "ID": 85
       },
       "geometry": {
@@ -1535,10 +1535,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8-12 Maiden Lane",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10038,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10038,
         "ID": 86
       },
       "geometry": {
@@ -1553,10 +1553,10 @@
       "type": "Feature",
       "properties": {
         "Address": "141 Willoughby Street",
-        "Property Names ": "",
-        "City ": "Brooklyn",
-        "State ": "NY",
-        "Zipcode ": 11201,
+        "Property Name": "",
+        "City": "Brooklyn",
+        "State": "NY",
+        "Zipcode": 11201,
         "ID": 87
       },
       "geometry": {
@@ -1571,10 +1571,10 @@
       "type": "Feature",
       "properties": {
         "Address": "326-330 West 37th Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10018,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10018,
         "ID": 88
       },
       "geometry": {
@@ -1589,10 +1589,10 @@
       "type": "Feature",
       "properties": {
         "Address": "334 West 36th Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10018,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10018,
         "ID": 89
       },
       "geometry": {
@@ -1607,10 +1607,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1155 Market Street",
-        "Property Names ": "",
-        "City ": "San Francisco",
-        "State ": "CA",
-        "Zipcode ": 94103,
+        "Property Name": "",
+        "City": "San Francisco",
+        "State": "CA",
+        "Zipcode": 94103,
         "ID": 90
       },
       "geometry": {
@@ -1625,10 +1625,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1325 W. Wilson Avenue",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60640,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60640,
         "ID": 91
       },
       "geometry": {
@@ -1643,10 +1643,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1500 Post Oak Drive",
-        "Property Names ": "Alden Ridge Apartments",
-        "City ": "Clarkston",
-        "State ": "GA",
-        "Zipcode ": 30021,
+        "Property Name": "Alden Ridge Apartments",
+        "City": "Clarkston",
+        "State": "GA",
+        "Zipcode": 30021,
         "ID": 92
       },
       "geometry": {
@@ -1661,10 +1661,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1500 Holcom Bridge Road",
-        "Property Names ": "Centre at Peachtree Corner & Summit at Dawson",
-        "City ": "Norcross",
-        "State ": "GA",
-        "Zipcode ": 30092,
+        "Property Name": "Centre at Peachtree Corner & Summit at Dawson",
+        "City": "Norcross",
+        "State": "GA",
+        "Zipcode": 30092,
         "ID": 93
       },
       "geometry": {
@@ -1679,10 +1679,10 @@
       "type": "Feature",
       "properties": {
         "Address": "434-485 S. Wright Street",
-        "Property Names ": "Mountain Vista",
-        "City ": "Lakewood",
-        "State ": "CO",
-        "Zipcode ": 80228,
+        "Property Name": "Mountain Vista",
+        "City": "Lakewood",
+        "State": "CO",
+        "Zipcode": 80228,
         "ID": 94
       },
       "geometry": {
@@ -1697,10 +1697,10 @@
       "type": "Feature",
       "properties": {
         "Address": "27 Prince Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10012,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10012,
         "ID": 95
       },
       "geometry": {
@@ -1715,10 +1715,10 @@
       "type": "Feature",
       "properties": {
         "Address": "468 Columbus Ave",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10024,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10024,
         "ID": 96
       },
       "geometry": {
@@ -1733,10 +1733,10 @@
       "type": "Feature",
       "properties": {
         "Address": "220 Calibre Downs Lane",
-        "Property Names ": "Madison Oaks Apartments",
-        "City ": "Palm Harbor",
-        "State ": "FL",
-        "Zipcode ": 34684,
+        "Property Name": "Madison Oaks Apartments",
+        "City": "Palm Harbor",
+        "State": "FL",
+        "Zipcode": 34684,
         "ID": 97
       },
       "geometry": {
@@ -1751,10 +1751,10 @@
       "type": "Feature",
       "properties": {
         "Address": "92-77 Queens Boulevard",
-        "Property Names ": "",
-        "City ": "Rego Park",
-        "State ": "NY",
-        "Zipcode ": 11374,
+        "Property Name": "",
+        "City": "Rego Park",
+        "State": "NY",
+        "Zipcode": 11374,
         "ID": 98
       },
       "geometry": {
@@ -1769,10 +1769,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1954 NW Pettygrove Street",
-        "Property Names ": "",
-        "City ": "Portland",
-        "State ": "OR",
-        "Zipcode ": 92709,
+        "Property Name": "",
+        "City": "Portland",
+        "State": "OR",
+        "Zipcode": 92709,
         "ID": 99
       },
       "geometry": {
@@ -1787,10 +1787,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3030 Shrine Place",
-        "Property Names ": "The Shrine Collection",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 92709,
+        "Property Name": "The Shrine Collection",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 92709,
         "ID": 100
       },
       "geometry": {
@@ -1805,10 +1805,10 @@
       "type": "Feature",
       "properties": {
         "Address": "727 15th Street  NW",
-        "Property Names ": "",
-        "City ": "Washington",
-        "State ": "DC",
-        "Zipcode ": 20005,
+        "Property Name": "",
+        "City": "Washington",
+        "State": "DC",
+        "Zipcode": 20005,
         "ID": 101
       },
       "geometry": {
@@ -1823,10 +1823,10 @@
       "type": "Feature",
       "properties": {
         "Address": "740 15th Street NW",
-        "Property Names ": "",
-        "City ": "Washington",
-        "State ": "DC",
-        "Zipcode ": 20005,
+        "Property Name": "",
+        "City": "Washington",
+        "State": "DC",
+        "Zipcode": 20005,
         "ID": 102
       },
       "geometry": {
@@ -1841,10 +1841,10 @@
       "type": "Feature",
       "properties": {
         "Address": "101-113 West Division Street",
-        "Property Names ": "Mark Twain Hotel",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60610,
+        "Property Name": "Mark Twain Hotel",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60610,
         "ID": 103
       },
       "geometry": {
@@ -1859,10 +1859,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2501 David Hutchinson Rd. ",
-        "Property Names ": "SP Rock Hill Commerce East",
-        "City ": "Rock HIll",
-        "State ": "SC",
-        "Zipcode ": 29730,
+        "Property Name": "SP Rock Hill Commerce East",
+        "City": "Rock HIll",
+        "State": "SC",
+        "Zipcode": 29730,
         "ID": 104
       },
       "geometry": {
@@ -1877,10 +1877,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3024 North Powers Drive",
-        "Property Names ": "Silver Oaks Apartments",
-        "City ": "Orlando",
-        "State ": "FL",
-        "Zipcode ": 32818,
+        "Property Name": "Silver Oaks Apartments",
+        "City": "Orlando",
+        "State": "FL",
+        "Zipcode": 32818,
         "ID": 105
       },
       "geometry": {
@@ -1895,10 +1895,10 @@
       "type": "Feature",
       "properties": {
         "Address": "320-350 West 39th Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10018,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10018,
         "ID": 106
       },
       "geometry": {
@@ -1913,10 +1913,10 @@
       "type": "Feature",
       "properties": {
         "Address": "144 West Street",
-        "Property Names ": "",
-        "City ": "Brooklyn",
-        "State ": "NY",
-        "Zipcode ": 11222,
+        "Property Name": "",
+        "City": "Brooklyn",
+        "State": "NY",
+        "Zipcode": 11222,
         "ID": 107
       },
       "geometry": {
@@ -1931,10 +1931,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1111 Mass Ave NW",
-        "Property Names ": "",
-        "City ": "Washington",
-        "State ": "DC",
-        "Zipcode ": 20005,
+        "Property Name": "",
+        "City": "Washington",
+        "State": "DC",
+        "Zipcode": 20005,
         "ID": 108
       },
       "geometry": {
@@ -1949,10 +1949,10 @@
       "type": "Feature",
       "properties": {
         "Address": "900 South Dwight",
-        "Property Names ": "Alondra Villas",
-        "City ": "Compton",
-        "State ": "CA",
-        "Zipcode ": 90220,
+        "Property Name": "Alondra Villas",
+        "City": "Compton",
+        "State": "CA",
+        "Zipcode": 90220,
         "ID": 109
       },
       "geometry": {
@@ -1967,10 +1967,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1502 Marsh Cove Court",
-        "Property Names ": "Crosswynde Apartments",
-        "City ": "Tampa",
-        "State ": "FL",
-        "Zipcode ": 33619,
+        "Property Name": "Crosswynde Apartments",
+        "City": "Tampa",
+        "State": "FL",
+        "Zipcode": 33619,
         "ID": 110
       },
       "geometry": {
@@ -1985,10 +1985,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3301 South Kirkman Road",
-        "Property Names ": "Grand Reserve Apartments",
-        "City ": "Orlando",
-        "State ": "FL",
-        "Zipcode ": 32811,
+        "Property Name": "Grand Reserve Apartments",
+        "City": "Orlando",
+        "State": "FL",
+        "Zipcode": 32811,
         "ID": 111
       },
       "geometry": {
@@ -2003,10 +2003,10 @@
       "type": "Feature",
       "properties": {
         "Address": "701 Fairgrounds Drive",
-        "Property Names ": "Greenfair Apartments",
-        "City ": "Sacramento ",
-        "State ": "CA",
-        "Zipcode ": 95817,
+        "Property Name": "Greenfair Apartments",
+        "City": "Sacramento ",
+        "State": "CA",
+        "Zipcode": 95817,
         "ID": 112
       },
       "geometry": {
@@ -2021,10 +2021,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3431 S. La Brea Avenue",
-        "Property Names ": "La Brea Gardens",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90016,
+        "Property Name": "La Brea Gardens",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90016,
         "ID": 113
       },
       "geometry": {
@@ -2039,10 +2039,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1100 South Beverly Drive",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90035,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90035,
         "ID": 114
       },
       "geometry": {
@@ -2057,10 +2057,10 @@
       "type": "Feature",
       "properties": {
         "Address": "341 South Alvarado Street",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90057,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90057,
         "ID": 115
       },
       "geometry": {
@@ -2075,10 +2075,10 @@
       "type": "Feature",
       "properties": {
         "Address": "668 South Rampart Boulevard",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90057,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90057,
         "ID": 116
       },
       "geometry": {
@@ -2093,10 +2093,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4310 Russell Avenue",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90027,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90027,
         "ID": 117
       },
       "geometry": {
@@ -2111,10 +2111,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2816 San Marino Street",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90006,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90006,
         "ID": 118
       },
       "geometry": {
@@ -2129,10 +2129,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1625 Renaissance Commons Boulevard",
-        "Property Names ": "Monteverde at Renaissance Commons",
-        "City ": "Boynton Beach",
-        "State ": "FL",
-        "Zipcode ": 33426,
+        "Property Name": "Monteverde at Renaissance Commons",
+        "City": "Boynton Beach",
+        "State": "FL",
+        "Zipcode": 33426,
         "ID": 119
       },
       "geometry": {
@@ -2147,10 +2147,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6611-6639 Reseda Boulevard",
-        "Property Names ": "The Watermark",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 91335,
+        "Property Name": "The Watermark",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 91335,
         "ID": 120
       },
       "geometry": {
@@ -2165,10 +2165,10 @@
       "type": "Feature",
       "properties": {
         "Address": "602 Euclid Avenue",
-        "Property Names ": "Walgreens",
-        "City ": "San Diego",
-        "State ": "CA",
-        "Zipcode ": 92114,
+        "Property Name": "Walgreens",
+        "City": "San Diego",
+        "State": "CA",
+        "Zipcode": 92114,
         "ID": 121
       },
       "geometry": {
@@ -2183,10 +2183,10 @@
       "type": "Feature",
       "properties": {
         "Address": "257-263 West 34th Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10001,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10001,
         "ID": 122
       },
       "geometry": {
@@ -2201,10 +2201,10 @@
       "type": "Feature",
       "properties": {
         "Address": "320 E 82nd Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10028,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10028,
         "ID": 123
       },
       "geometry": {
@@ -2219,10 +2219,10 @@
       "type": "Feature",
       "properties": {
         "Address": "439-443 West 48th Street",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10036,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10036,
         "ID": 124
       },
       "geometry": {
@@ -2237,10 +2237,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1427 Germantown Avenue",
-        "Property Names ": "",
-        "City ": "Philadelphia",
-        "State ": "PA",
-        "Zipcode ": 19122,
+        "Property Name": "",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zipcode": 19122,
         "ID": 125
       },
       "geometry": {
@@ -2255,10 +2255,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5300 GA-138",
-        "Property Names ": "Shannon Lake Apartments",
-        "City ": "Union City",
-        "State ": "GA",
-        "Zipcode ": 30291,
+        "Property Name": "Shannon Lake Apartments",
+        "City": "Union City",
+        "State": "GA",
+        "Zipcode": 30291,
         "ID": 126
       },
       "geometry": {
@@ -2273,10 +2273,10 @@
       "type": "Feature",
       "properties": {
         "Address": "640 West Willis Street",
-        "Property Names ": "Westwill Apartments",
-        "City ": "Detroit",
-        "State ": "MI",
-        "Zipcode ": 48201,
+        "Property Name": "Westwill Apartments",
+        "City": "Detroit",
+        "State": "MI",
+        "Zipcode": 48201,
         "ID": 127
       },
       "geometry": {
@@ -2291,10 +2291,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6617 Simmons Loop",
-        "Property Names ": "Wildgrass Apartments",
-        "City ": "Riverview",
-        "State ": "FL",
-        "Zipcode ": 33578,
+        "Property Name": "Wildgrass Apartments",
+        "City": "Riverview",
+        "State": "FL",
+        "Zipcode": 33578,
         "ID": 128
       },
       "geometry": {
@@ -2309,10 +2309,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1025 Old Country Road",
-        "Property Names ": "",
-        "City ": "Westbury",
-        "State ": "NY",
-        "Zipcode ": 11590,
+        "Property Name": "",
+        "City": "Westbury",
+        "State": "NY",
+        "Zipcode": 11590,
         "ID": 129
       },
       "geometry": {
@@ -2327,10 +2327,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4301 Executive Circle",
-        "Property Names ": "Cobblestone at the Lakes Apartments",
-        "City ": "Fort Myers",
-        "State ": "FL",
-        "Zipcode ": 33916,
+        "Property Name": "Cobblestone at the Lakes Apartments",
+        "City": "Fort Myers",
+        "State": "FL",
+        "Zipcode": 33916,
         "ID": 130
       },
       "geometry": {
@@ -2345,10 +2345,10 @@
       "type": "Feature",
       "properties": {
         "Address": "14949 Roscoe Boulevard",
-        "Property Names ": "Panorama Portfolio",
-        "City ": "Panorama City",
-        "State ": "CA",
-        "Zipcode ": 91402,
+        "Property Name": "Panorama Portfolio",
+        "City": "Panorama City",
+        "State": "CA",
+        "Zipcode": 91402,
         "ID": 131
       },
       "geometry": {
@@ -2363,10 +2363,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4300 Flat Shoals Road",
-        "Property Names ": "Park at Morella",
-        "City ": "Union City",
-        "State ": "GA",
-        "Zipcode ": 30291,
+        "Property Name": "Park at Morella",
+        "City": "Union City",
+        "State": "GA",
+        "Zipcode": 30291,
         "ID": 132
       },
       "geometry": {
@@ -2381,10 +2381,10 @@
       "type": "Feature",
       "properties": {
         "Address": "100 Belmont Place",
-        "Property Names ": "",
-        "City ": "Staten Island",
-        "State ": "NY",
-        "Zipcode ": 10301,
+        "Property Name": "",
+        "City": "Staten Island",
+        "State": "NY",
+        "Zipcode": 10301,
         "ID": 133
       },
       "geometry": {
@@ -2399,10 +2399,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4530 Leeward Rdg Drive",
-        "Property Names ": "The Asbury Apartments",
-        "City ": "Tampa",
-        "State ": "FL",
-        "Zipcode ": 33619,
+        "Property Name": "The Asbury Apartments",
+        "City": "Tampa",
+        "State": "FL",
+        "Zipcode": 33619,
         "ID": 134
       },
       "geometry": {
@@ -2417,10 +2417,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2835 West Northern Avenue",
-        "Property Names ": "",
-        "City ": "Phoenix",
-        "State ": "AZ",
-        "Zipcode ": 85051,
+        "Property Name": "",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85051,
         "ID": 135
       },
       "geometry": {
@@ -2435,10 +2435,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2820-2844 W. Augusta Ave",
-        "Property Names ": "",
-        "City ": "Phoenix",
-        "State ": "AZ",
-        "Zipcode ": 85051,
+        "Property Name": "",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Zipcode": 85051,
         "ID": 136
       },
       "geometry": {
@@ -2453,10 +2453,10 @@
       "type": "Feature",
       "properties": {
         "Address": "245 Bonita Glen Drive",
-        "Property Names ": "Bonita Glen",
-        "City ": "Chula Vista",
-        "State ": "CA",
-        "Zipcode ": 91910,
+        "Property Name": "Bonita Glen",
+        "City": "Chula Vista",
+        "State": "CA",
+        "Zipcode": 91910,
         "ID": 137
       },
       "geometry": {
@@ -2471,10 +2471,10 @@
       "type": "Feature",
       "properties": {
         "Address": "100 11th Avenue",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10011,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10011,
         "ID": 138
       },
       "geometry": {
@@ -2489,10 +2489,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6812 11th Avenue",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90043,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90043,
         "ID": 139
       },
       "geometry": {
@@ -2507,10 +2507,10 @@
       "type": "Feature",
       "properties": {
         "Address": " 6821 11th Avenue",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90043,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90043,
         "ID": 140
       },
       "geometry": {
@@ -2525,10 +2525,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2301-2311 Florence",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90043,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90043,
         "ID": 141
       },
       "geometry": {
@@ -2543,10 +2543,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7916 South Crenshaw Boulevard",
-        "Property Names ": "",
-        "City ": "Inglewood",
-        "State ": "CA",
-        "Zipcode ": 90302,
+        "Property Name": "",
+        "City": "Inglewood",
+        "State": "CA",
+        "Zipcode": 90302,
         "ID": 142
       },
       "geometry": {
@@ -2561,10 +2561,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1845 Pine Avenue ",
-        "Property Names ": "",
-        "City ": "Long Beach",
-        "State ": "CA",
-        "Zipcode ": 90806,
+        "Property Name": "",
+        "City": "Long Beach",
+        "State": "CA",
+        "Zipcode": 90806,
         "ID": 143
       },
       "geometry": {
@@ -2579,10 +2579,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1850 Pine Avenue ",
-        "Property Names ": "",
-        "City ": "Long Beach",
-        "State ": "CA",
-        "Zipcode ": 90806,
+        "Property Name": "",
+        "City": "Long Beach",
+        "State": "CA",
+        "Zipcode": 90806,
         "ID": 144
       },
       "geometry": {
@@ -2597,10 +2597,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2223 Myrtle Avenue ",
-        "Property Names ": "",
-        "City ": "Long Beach",
-        "State ": "CA",
-        "Zipcode ": 90806,
+        "Property Name": "",
+        "City": "Long Beach",
+        "State": "CA",
+        "Zipcode": 90806,
         "ID": 145
       },
       "geometry": {
@@ -2615,10 +2615,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3310 Warrensville Center Road",
-        "Property Names ": "Shaker Heights",
-        "City ": "Shaker Heights ",
-        "State ": "OH",
-        "Zipcode ": 44122,
+        "Property Name": "Shaker Heights",
+        "City": "Shaker Heights ",
+        "State": "OH",
+        "Zipcode": 44122,
         "ID": 146
       },
       "geometry": {
@@ -2633,10 +2633,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3311 Warrensville Center Road ",
-        "Property Names ": "Shaker Heights",
-        "City ": "Shaker Heights ",
-        "State ": "OH",
-        "Zipcode ": 44122,
+        "Property Name": "Shaker Heights",
+        "City": "Shaker Heights ",
+        "State": "OH",
+        "Zipcode": 44122,
         "ID": 147
       },
       "geometry": {
@@ -2651,10 +2651,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3363 Warrensville Center Road",
-        "Property Names ": "Shaker Heights",
-        "City ": "Shaker Heights",
-        "State ": "OH",
-        "Zipcode ": 44122,
+        "Property Name": "Shaker Heights",
+        "City": "Shaker Heights",
+        "State": "OH",
+        "Zipcode": 44122,
         "ID": 148
       },
       "geometry": {
@@ -2669,10 +2669,10 @@
       "type": "Feature",
       "properties": {
         "Address": "20825 Chagrin Boulevard",
-        "Property Names ": "Shaker Heights",
-        "City ": "Shaker Heights",
-        "State ": "OH",
-        "Zipcode ": 44122,
+        "Property Name": "Shaker Heights",
+        "City": "Shaker Heights",
+        "State": "OH",
+        "Zipcode": 44122,
         "ID": 149
       },
       "geometry": {
@@ -2687,10 +2687,10 @@
       "type": "Feature",
       "properties": {
         "Address": "16715 Van Aken Boulevard ",
-        "Property Names ": "Shaker Heights",
-        "City ": "Shaker Heights",
-        "State ": "OH",
-        "Zipcode ": 44120,
+        "Property Name": "Shaker Heights",
+        "City": "Shaker Heights",
+        "State": "OH",
+        "Zipcode": 44120,
         "ID": 150
       },
       "geometry": {
@@ -2705,10 +2705,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6736 Woodley Avenue",
-        "Property Names ": "Golden Bee - Woodley",
-        "City ": "Van Nuys",
-        "State ": "CA",
-        "Zipcode ": 91406,
+        "Property Name": "Golden Bee - Woodley",
+        "City": "Van Nuys",
+        "State": "CA",
+        "Zipcode": 91406,
         "ID": 151
       },
       "geometry": {
@@ -2723,10 +2723,10 @@
       "type": "Feature",
       "properties": {
         "Address": "700 West Avenue Incaster",
-        "Property Names ": "Parkwood",
-        "City ": "Lancaster",
-        "State ": "CA",
-        "Zipcode ": 93534,
+        "Property Name": "Parkwood",
+        "City": "Lancaster",
+        "State": "CA",
+        "Zipcode": 93534,
         "ID": 152
       },
       "geometry": {
@@ -2741,10 +2741,10 @@
       "type": "Feature",
       "properties": {
         "Address": "536 Bahia Beach Blvd",
-        "Property Names ": "Harborside Suites",
-        "City ": "Ruskin ",
-        "State ": "FL",
-        "Zipcode ": 33570,
+        "Property Name": "Harborside Suites",
+        "City": "Ruskin ",
+        "State": "FL",
+        "Zipcode": 33570,
         "ID": 153
       },
       "geometry": {
@@ -2759,10 +2759,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6700 South Merrill Street ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 154
       },
       "geometry": {
@@ -2777,10 +2777,10 @@
       "type": "Feature",
       "properties": {
         "Address": "856 Gramercy Drive",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90005,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90005,
         "ID": 155
       },
       "geometry": {
@@ -2795,10 +2795,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3602 Country Club Road North",
-        "Property Names ": "The Braxton Apartments",
-        "City ": "Irving",
-        "State ": "TX",
-        "Zipcode ": 75062,
+        "Property Name": "The Braxton Apartments",
+        "City": "Irving",
+        "State": "TX",
+        "Zipcode": 75062,
         "ID": 156
       },
       "geometry": {
@@ -2813,10 +2813,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2301 E Market Street",
-        "Property Names ": "Fountain View Apartments",
-        "City ": "Long Beach",
-        "State ": "CA",
-        "Zipcode ": 90805,
+        "Property Name": "Fountain View Apartments",
+        "City": "Long Beach",
+        "State": "CA",
+        "Zipcode": 90805,
         "ID": 157
       },
       "geometry": {
@@ -2831,10 +2831,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5565-5700 Ackerfield Avenue",
-        "Property Names ": "Golden Bee - Ackerfield",
-        "City ": "Long Beach",
-        "State ": "CA",
-        "Zipcode ": 90805,
+        "Property Name": "Golden Bee - Ackerfield",
+        "City": "Long Beach",
+        "State": "CA",
+        "Zipcode": 90805,
         "ID": 158
       },
       "geometry": {
@@ -2849,10 +2849,10 @@
       "type": "Feature",
       "properties": {
         "Address": "400 Legends Terrace Drive",
-        "Property Names ": "",
-        "City ": "Eureka",
-        "State ": "MO",
-        "Zipcode ": 63025,
+        "Property Name": "",
+        "City": "Eureka",
+        "State": "MO",
+        "Zipcode": 63025,
         "ID": 159
       },
       "geometry": {
@@ -2867,10 +2867,10 @@
       "type": "Feature",
       "properties": {
         "Address": "775 Niehoff Drive",
-        "Property Names ": "",
-        "City ": "Eureka",
-        "State ": "MO",
-        "Zipcode ": 63025,
+        "Property Name": "",
+        "City": "Eureka",
+        "State": "MO",
+        "Zipcode": 63025,
         "ID": 160
       },
       "geometry": {
@@ -2885,10 +2885,10 @@
       "type": "Feature",
       "properties": {
         "Address": "701 Wilson Street",
-        "Property Names ": "Pullman Lofts",
-        "City ": "Santa Rosa",
-        "State ": "CA",
-        "Zipcode ": 95401,
+        "Property Name": "Pullman Lofts",
+        "City": "Santa Rosa",
+        "State": "CA",
+        "Zipcode": 95401,
         "ID": 161
       },
       "geometry": {
@@ -2903,10 +2903,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4252 Belden Greens Circle NW",
-        "Property Names ": "The Residences at the Greens",
-        "City ": "Canton",
-        "State ": "OH",
-        "Zipcode ": 44718,
+        "Property Name": "The Residences at the Greens",
+        "City": "Canton",
+        "State": "OH",
+        "Zipcode": 44718,
         "ID": 162
       },
       "geometry": {
@@ -2921,10 +2921,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1455 E Katie Avenues ",
-        "Property Names ": "Valencia",
-        "City ": "Las Vegas",
-        "State ": "NV",
-        "Zipcode ": 889119,
+        "Property Name": "Valencia",
+        "City": "Las Vegas",
+        "State": "NV",
+        "Zipcode": 889119,
         "ID": 163
       },
       "geometry": {
@@ -2939,10 +2939,10 @@
       "type": "Feature",
       "properties": {
         "Address": "229 16th Street",
-        "Property Names ": "Ballpark Apartments",
-        "City ": "San Diego",
-        "State ": "CA",
-        "Zipcode ": 92101,
+        "Property Name": "Ballpark Apartments",
+        "City": "San Diego",
+        "State": "CA",
+        "Zipcode": 92101,
         "ID": 164
       },
       "geometry": {
@@ -2957,10 +2957,10 @@
       "type": "Feature",
       "properties": {
         "Address": "12960 Dronfield Avenue",
-        "Property Names ": "Dronfield",
-        "City ": "Sylmar",
-        "State ": "CA",
-        "Zipcode ": 91342,
+        "Property Name": "Dronfield",
+        "City": "Sylmar",
+        "State": "CA",
+        "Zipcode": 91342,
         "ID": 165
       },
       "geometry": {
@@ -2975,10 +2975,10 @@
       "type": "Feature",
       "properties": {
         "Address": "227 Pane Road",
-        "Property Names ": "The Pike",
-        "City ": "Newington",
-        "State ": "CT",
-        "Zipcode ": "06111",
+        "Property Name": "The Pike",
+        "City": "Newington",
+        "State": "CT",
+        "Zipcode": "06111",
         "ID": 166
       },
       "geometry": {
@@ -2993,10 +2993,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6243 S. Rhodes ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 167
       },
       "geometry": {
@@ -3011,10 +3011,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6237 S Rhodes ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 168
       },
       "geometry": {
@@ -3029,10 +3029,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6511 Rhodes ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 169
       },
       "geometry": {
@@ -3047,10 +3047,10 @@
       "type": "Feature",
       "properties": {
         "Address": "9752 S. Ave. J ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 170
       },
       "geometry": {
@@ -3065,10 +3065,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1344 W. Devon  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60660,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60660,
         "ID": 171
       },
       "geometry": {
@@ -3083,10 +3083,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5345 Washington",
-        "Property Names ": "",
-        "City ": "Indianapolis",
-        "State ": "IN",
-        "Zipcode ": 46219,
+        "Property Name": "",
+        "City": "Indianapolis",
+        "State": "IN",
+        "Zipcode": 46219,
         "ID": 172
       },
       "geometry": {
@@ -3101,10 +3101,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2620 E 74th ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 173
       },
       "geometry": {
@@ -3119,10 +3119,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5201 S Calumet ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 174
       },
       "geometry": {
@@ -3137,10 +3137,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5711 S Calumet ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 175
       },
       "geometry": {
@@ -3155,10 +3155,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4801 S Calumet  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 176
       },
       "geometry": {
@@ -3173,10 +3173,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4018 S Calumet",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 177
       },
       "geometry": {
@@ -3191,10 +3191,10 @@
       "type": "Feature",
       "properties": {
         "Address": "16265 Calumet ave",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60616,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60616,
         "ID": 178
       },
       "geometry": {
@@ -3209,10 +3209,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5644 S Calumet ave",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60616,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60616,
         "ID": 179
       },
       "geometry": {
@@ -3227,10 +3227,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6628 Loomis",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60636,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60636,
         "ID": 180
       },
       "geometry": {
@@ -3245,10 +3245,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7201 S Yates Blvd  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 181
       },
       "geometry": {
@@ -3263,10 +3263,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7233 S Stony  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 182
       },
       "geometry": {
@@ -3281,10 +3281,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8128 South Escenaba  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 183
       },
       "geometry": {
@@ -3299,10 +3299,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8327 S Kingston  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 184
       },
       "geometry": {
@@ -3317,10 +3317,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8135 S Kingston ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 185
       },
       "geometry": {
@@ -3335,10 +3335,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8935 S Marshfield  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60620,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60620,
         "ID": 186
       },
       "geometry": {
@@ -3353,10 +3353,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2453 W Marquette  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60629,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60629,
         "ID": 187
       },
       "geometry": {
@@ -3371,10 +3371,10 @@
       "type": "Feature",
       "properties": {
         "Address": "102 Memorial Dr",
-        "Property Names ": "",
-        "City ": "Calumet City",
-        "State ": "IL",
-        "Zipcode ": 60409,
+        "Property Name": "",
+        "City": "Calumet City",
+        "State": "IL",
+        "Zipcode": 60409,
         "ID": 188
       },
       "geometry": {
@@ -3389,10 +3389,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1601 W 23rd ",
-        "Property Names ": "University Center Storage LLC ",
-        "City ": "Lawrence",
-        "State ": "KS",
-        "Zipcode ": 66046,
+        "Property Name": "University Center Storage LLC ",
+        "City": "Lawrence",
+        "State": "KS",
+        "Zipcode": 66046,
         "ID": 189
       },
       "geometry": {
@@ -3407,10 +3407,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4930 S Indiana Ave  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 190
       },
       "geometry": {
@@ -3425,10 +3425,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4139 South Indiana ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 191
       },
       "geometry": {
@@ -3443,10 +3443,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4356 South indiana",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 192
       },
       "geometry": {
@@ -3461,10 +3461,10 @@
       "type": "Feature",
       "properties": {
         "Address": "11085 Pine Acre Trails Blvd",
-        "Property Names ": "Pine Acre Trails ",
-        "City ": "Conroe",
-        "State ": "TX",
-        "Zipcode ": 77303,
+        "Property Name": "Pine Acre Trails ",
+        "City": "Conroe",
+        "State": "TX",
+        "Zipcode": 77303,
         "ID": 193
       },
       "geometry": {
@@ -3479,10 +3479,10 @@
       "type": "Feature",
       "properties": {
         "Address": "14924 W Thory Lane SW",
-        "Property Names ": "Tilicum",
-        "City ": "Lawkewood",
-        "State ": "WA",
-        "Zipcode ": 98498,
+        "Property Name": "Tilicum",
+        "City": "Lawkewood",
+        "State": "WA",
+        "Zipcode": 98498,
         "ID": 194
       },
       "geometry": {
@@ -3497,10 +3497,10 @@
       "type": "Feature",
       "properties": {
         "Address": "119 Oak Grv Pk Rd",
-        "Property Names ": "Oak Grove",
-        "City ": "Dallas",
-        "State ": "NC",
-        "Zipcode ": 28034,
+        "Property Name": "Oak Grove",
+        "City": "Dallas",
+        "State": "NC",
+        "Zipcode": 28034,
         "ID": 195
       },
       "geometry": {
@@ -3515,10 +3515,10 @@
       "type": "Feature",
       "properties": {
         "Address": "W4014 Alpine Ave",
-        "Property Names ": "Deer Run Estates ",
-        "City ": "Merrill",
-        "State ": "WI",
-        "Zipcode ": 54452,
+        "Property Name": "Deer Run Estates ",
+        "City": "Merrill",
+        "State": "WI",
+        "Zipcode": 54452,
         "ID": 196
       },
       "geometry": {
@@ -3533,10 +3533,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1347 W Washington  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60607,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60607,
         "ID": 197
       },
       "geometry": {
@@ -3551,10 +3551,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1411 W Grand  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60642,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60642,
         "ID": 198
       },
       "geometry": {
@@ -3569,10 +3569,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2117 W Grand  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60612,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60612,
         "ID": 199
       },
       "geometry": {
@@ -3587,10 +3587,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3250 W Crystal  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60651,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60651,
         "ID": 200
       },
       "geometry": {
@@ -3605,10 +3605,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5637 Wabash  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 201
       },
       "geometry": {
@@ -3623,10 +3623,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4230 Langley  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 202
       },
       "geometry": {
@@ -3641,10 +3641,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4234 Champlain  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 203
       },
       "geometry": {
@@ -3659,10 +3659,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5034 S Champlain",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 204
       },
       "geometry": {
@@ -3677,10 +3677,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4710 Ellis ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 205
       },
       "geometry": {
@@ -3695,10 +3695,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4344 South Ellis ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 206
       },
       "geometry": {
@@ -3713,10 +3713,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5639 S Ellis",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 207
       },
       "geometry": {
@@ -3731,10 +3731,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6514S Ellis",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 208
       },
       "geometry": {
@@ -3749,10 +3749,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7949 Bennett ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 209
       },
       "geometry": {
@@ -3767,10 +3767,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7819 S South Shore  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 210
       },
       "geometry": {
@@ -3785,10 +3785,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6853 Paxton ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 211
       },
       "geometry": {
@@ -3803,10 +3803,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6900 S Paxton",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 212
       },
       "geometry": {
@@ -3821,10 +3821,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6551 University  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 213
       },
       "geometry": {
@@ -3839,10 +3839,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6553 University ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 214
       },
       "geometry": {
@@ -3857,10 +3857,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3269 Wabansia ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60647,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60647,
         "ID": 215
       },
       "geometry": {
@@ -3875,10 +3875,10 @@
       "type": "Feature",
       "properties": {
         "Address": "900 E Grand Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60611,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60611,
         "ID": 216
       },
       "geometry": {
@@ -3893,10 +3893,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1645 W Ogden Avenue ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60612,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60612,
         "ID": 217
       },
       "geometry": {
@@ -3911,10 +3911,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6528 South University Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 218
       },
       "geometry": {
@@ -3929,10 +3929,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6618 S Kenwood Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 219
       },
       "geometry": {
@@ -3947,10 +3947,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6612 S Kenwood ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 220
       },
       "geometry": {
@@ -3965,10 +3965,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6225 S Kenwood  ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 221
       },
       "geometry": {
@@ -3983,10 +3983,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7400 S Coles Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 222
       },
       "geometry": {
@@ -4001,10 +4001,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7425 S Coles Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 223
       },
       "geometry": {
@@ -4019,10 +4019,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1468 E 69th St ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 224
       },
       "geometry": {
@@ -4037,10 +4037,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1464 E 69th St",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 225
       },
       "geometry": {
@@ -4055,10 +4055,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7628 South Essex Avenue ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 226
       },
       "geometry": {
@@ -4073,10 +4073,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3263 W Wabansia Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60647,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60647,
         "ID": 227
       },
       "geometry": {
@@ -4091,10 +4091,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5020 S Prairie Ave ",
-        "Property Names ": "",
-        "City ": "Chicago",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 228
       },
       "geometry": {
@@ -4109,10 +4109,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3453-55 South Prairie Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60616,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60616,
         "ID": 229
       },
       "geometry": {
@@ -4127,10 +4127,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5020 South Praire ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60616,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60616,
         "ID": 230
       },
       "geometry": {
@@ -4145,10 +4145,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5432 S Prairie Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60616,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60616,
         "ID": 231
       },
       "geometry": {
@@ -4163,10 +4163,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1201W Diversey ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60614,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60614,
         "ID": 232
       },
       "geometry": {
@@ -4181,10 +4181,10 @@
       "type": "Feature",
       "properties": {
         "Address": "800 Elizabeth St",
-        "Property Names ": "",
-        "City ": "Joliet",
-        "State ": "IL",
-        "Zipcode ": 60435,
+        "Property Name": "",
+        "City": "Joliet",
+        "State": "IL",
+        "Zipcode": 60435,
         "ID": 233
       },
       "geometry": {
@@ -4199,10 +4199,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7722 S Cornell Ave ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 234
       },
       "geometry": {
@@ -4217,10 +4217,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6341 S Saint Lawrence ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 235
       },
       "geometry": {
@@ -4235,10 +4235,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6343 South St lawrence",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 236
       },
       "geometry": {
@@ -4253,10 +4253,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6339 South St Lawrence ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 237
       },
       "geometry": {
@@ -4271,10 +4271,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8240 S Exchange ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 238
       },
       "geometry": {
@@ -4289,10 +4289,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3839 South Michigan ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 239
       },
       "geometry": {
@@ -4307,10 +4307,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4213-23 South Michigan Ave ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 240
       },
       "geometry": {
@@ -4325,10 +4325,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4850 South  Michigan Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 241
       },
       "geometry": {
@@ -4343,10 +4343,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4220 South Michigan Ave ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 242
       },
       "geometry": {
@@ -4361,10 +4361,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4230 South Michigan Ave ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 243
       },
       "geometry": {
@@ -4379,10 +4379,10 @@
       "type": "Feature",
       "properties": {
         "Address": "4240 South Michigan Ave ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60653,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60653,
         "ID": 244
       },
       "geometry": {
@@ -4397,10 +4397,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3752 South Ave J ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60609,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60609,
         "ID": 245
       },
       "geometry": {
@@ -4415,10 +4415,10 @@
       "type": "Feature",
       "properties": {
         "Address": "9138 S Baltimore Ave ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 246
       },
       "geometry": {
@@ -4433,10 +4433,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7841 Phillips Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 247
       },
       "geometry": {
@@ -4451,10 +4451,10 @@
       "type": "Feature",
       "properties": {
         "Address": "5019 S Drexel Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60615,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60615,
         "ID": 248
       },
       "geometry": {
@@ -4469,10 +4469,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7110 S East End ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 249
       },
       "geometry": {
@@ -4487,10 +4487,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6100 South Eberhort",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 250
       },
       "geometry": {
@@ -4505,10 +4505,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8242 S Vernon",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60619,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60619,
         "ID": 251
       },
       "geometry": {
@@ -4523,10 +4523,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8055 South Merill Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60617,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60617,
         "ID": 252
       },
       "geometry": {
@@ -4541,10 +4541,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7001 South Merill Ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 253
       },
       "geometry": {
@@ -4559,10 +4559,10 @@
       "type": "Feature",
       "properties": {
         "Address": "8152 South Maryland",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60619,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60619,
         "ID": 254
       },
       "geometry": {
@@ -4577,10 +4577,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7527 S Colax",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 255
       },
       "geometry": {
@@ -4595,10 +4595,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6201 South Kimbark ave",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 256
       },
       "geometry": {
@@ -4613,10 +4613,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6556 S Green",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60621,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60621,
         "ID": 257
       },
       "geometry": {
@@ -4631,10 +4631,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6917 S Dante",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 258
       },
       "geometry": {
@@ -4649,10 +4649,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6631 S Woodlawn",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60637,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60637,
         "ID": 259
       },
       "geometry": {
@@ -4667,10 +4667,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6734 S Clyde",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 260
       },
       "geometry": {
@@ -4685,10 +4685,10 @@
       "type": "Feature",
       "properties": {
         "Address": "6757 S Clyde",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 261
       },
       "geometry": {
@@ -4703,10 +4703,10 @@
       "type": "Feature",
       "properties": {
         "Address": "7842 S Ogelsby ",
-        "Property Names ": "",
-        "City ": "Chicago ",
-        "State ": "IL",
-        "Zipcode ": 60649,
+        "Property Name": "",
+        "City": "Chicago ",
+        "State": "IL",
+        "Zipcode": 60649,
         "ID": 262
       },
       "geometry": {
@@ -4721,10 +4721,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1236 Grand Concourse ",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10456,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10456,
         "ID": 263
       },
       "geometry": {
@@ -4739,10 +4739,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1390-88 St Nicholas Ave ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10033,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10033,
         "ID": 264
       },
       "geometry": {
@@ -4757,10 +4757,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1390-98 St Nicholas Ave ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10033,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10033,
         "ID": 265
       },
       "geometry": {
@@ -4775,10 +4775,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1401-7 St Nicholas Ave ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10033,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10033,
         "ID": 266
       },
       "geometry": {
@@ -4793,10 +4793,10 @@
       "type": "Feature",
       "properties": {
         "Address": "210-220 Nagle Ave ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10034,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10034,
         "ID": 267
       },
       "geometry": {
@@ -4811,10 +4811,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3115 Sedgwick Ave ",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10463,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10463,
         "ID": 268
       },
       "geometry": {
@@ -4829,10 +4829,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2372-2376 Amsterdam Ave ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10033,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10033,
         "ID": 269
       },
       "geometry": {
@@ -4847,10 +4847,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2541 Aqueduct Ave ",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10468,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10468,
         "ID": 270
       },
       "geometry": {
@@ -4865,10 +4865,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2710-2714 Broadway ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10025,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10025,
         "ID": 271
       },
       "geometry": {
@@ -4883,10 +4883,10 @@
       "type": "Feature",
       "properties": {
         "Address": "30 Sickles St ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10040,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10040,
         "ID": 272
       },
       "geometry": {
@@ -4901,10 +4901,10 @@
       "type": "Feature",
       "properties": {
         "Address": "3021 Holland Ave ",
-        "Property Names ": "",
-        "City ": "Bronx",
-        "State ": "NY",
-        "Zipcode ": 10467,
+        "Property Name": "",
+        "City": "Bronx",
+        "State": "NY",
+        "Zipcode": 10467,
         "ID": 273
       },
       "geometry": {
@@ -4919,10 +4919,10 @@
       "type": "Feature",
       "properties": {
         "Address": "955 Yonkers Ave ",
-        "Property Names ": "",
-        "City ": "Yonkers",
-        "State ": "NY",
-        "Zipcode ": 10704,
+        "Property Name": "",
+        "City": "Yonkers",
+        "State": "NY",
+        "Zipcode": 10704,
         "ID": 274
       },
       "geometry": {
@@ -4937,10 +4937,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1225 Sherman Ave ",
-        "Property Names ": "",
-        "City ": "New York",
-        "State ": "NY",
-        "Zipcode ": 10456,
+        "Property Name": "",
+        "City": "New York",
+        "State": "NY",
+        "Zipcode": 10456,
         "ID": 275
       },
       "geometry": {
@@ -4955,10 +4955,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1057 S. Western Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90006,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90006,
         "ID": 276
       },
       "geometry": {
@@ -4973,10 +4973,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1319 Ingraham St",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90017,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90017,
         "ID": 277
       },
       "geometry": {
@@ -4991,10 +4991,10 @@
       "type": "Feature",
       "properties": {
         "Address": "132 S. Westmoreland Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90004,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90004,
         "ID": 278
       },
       "geometry": {
@@ -5009,10 +5009,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1416 W. 10th Pl ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90015,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90015,
         "ID": 279
       },
       "geometry": {
@@ -5027,10 +5027,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1422 - 1426 W. 10th Pl ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90015,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90015,
         "ID": 280
       },
       "geometry": {
@@ -5045,10 +5045,10 @@
       "type": "Feature",
       "properties": {
         "Address": "147 N. New Hampshire Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90004,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90004,
         "ID": 281
       },
       "geometry": {
@@ -5063,10 +5063,10 @@
       "type": "Feature",
       "properties": {
         "Address": "1513 W. 12th St ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90015,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90015,
         "ID": 282
       },
       "geometry": {
@@ -5081,10 +5081,10 @@
       "type": "Feature",
       "properties": {
         "Address": "220 S. Catalina St ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90004,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90004,
         "ID": 283
       },
       "geometry": {
@@ -5099,10 +5099,10 @@
       "type": "Feature",
       "properties": {
         "Address": "2795 W. 8th St ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90005,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90005,
         "ID": 284
       },
       "geometry": {
@@ -5117,10 +5117,10 @@
       "type": "Feature",
       "properties": {
         "Address": "516 N. Harvard Blvd ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90004,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90004,
         "ID": 285
       },
       "geometry": {
@@ -5135,10 +5135,10 @@
       "type": "Feature",
       "properties": {
         "Address": "750-752 S. Mariposa Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90005,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90005,
         "ID": 286
       },
       "geometry": {
@@ -5153,10 +5153,10 @@
       "type": "Feature",
       "properties": {
         "Address": "975 S. Oxford Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90006,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90006,
         "ID": 287
       },
       "geometry": {
@@ -5171,10 +5171,10 @@
       "type": "Feature",
       "properties": {
         "Address": "979 S. Oxford Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90006,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90006,
         "ID": 288
       },
       "geometry": {
@@ -5189,10 +5189,10 @@
       "type": "Feature",
       "properties": {
         "Address": "985 S. Oxford Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90006,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90006,
         "ID": 289
       },
       "geometry": {
@@ -5207,10 +5207,10 @@
       "type": "Feature",
       "properties": {
         "Address": "147 S. Normandie Ave ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90004,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90004,
         "ID": 290
       },
       "geometry": {
@@ -5225,10 +5225,10 @@
       "type": "Feature",
       "properties": {
         "Address": "916 S. Lake St ",
-        "Property Names ": "",
-        "City ": "Los Angeles",
-        "State ": "CA",
-        "Zipcode ": 90006,
+        "Property Name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Zipcode": 90006,
         "ID": 291
       },
       "geometry": {
